@@ -1,4 +1,4 @@
--- Week 4 | KPI definitions + data-quality checks. Hand careflow.kpi_summary to Member 4 for Power BI.
+
 CREATE OR REPLACE VIEW careflow.kpi_summary AS
 SELECT
   COUNT(*)                                              AS total_cases,
