@@ -1,4 +1,4 @@
--- Week 3 | Transition times between consecutive activities, per case.
+
 -- Input : careflow.event_log_clean (case_id, activity_name, event_timestamp)  <- Member 1's dbt output
 -- Output: careflow.transitions (one row per hop)
 CREATE OR REPLACE VIEW careflow.transitions AS
