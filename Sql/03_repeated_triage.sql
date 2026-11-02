@@ -1,4 +1,4 @@
--- Week 3 | Loop-back detection: patients sent back to Triage after an X-Ray.
+
 -- Also quantifies what the loop costs, i.e. the "reduce wait by ~20 min" claim.
 CREATE OR REPLACE VIEW careflow.case_flags AS
 WITH per_case AS (
