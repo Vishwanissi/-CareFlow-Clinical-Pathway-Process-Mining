@@ -1,5 +1,3 @@
--- Week 4 | Variant analysis + rule-based conformance vs. the ideal pathway.
--- EDIT the ideal paths below so they match the activity names Member 2's simulator emits.
 CREATE OR REPLACE VIEW careflow.case_conformance AS
 WITH params AS (
   SELECT
