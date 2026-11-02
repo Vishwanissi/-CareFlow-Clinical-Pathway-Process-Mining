@@ -1,4 +1,3 @@
-"""Week 4 | Conformance checking with PM4Py: actual patient journeys vs. the ideal pathway."""
 import pandas as pd
 import pm4py
 from collections import Counter
