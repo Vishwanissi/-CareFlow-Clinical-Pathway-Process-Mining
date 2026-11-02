@@ -1,4 +1,4 @@
--- Week 3 | Average / median / P90 time for every transition (node-to-node), ranked.
+
 -- e.g. "Average time from Triage to Doctor Consultation"
 CREATE OR REPLACE VIEW careflow.bottlenecks AS
 WITH stats AS (
