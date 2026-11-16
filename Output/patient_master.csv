@@ -1,0 +1,2001 @@
+Case_ID,Age,Gender,Department,Severity,Has_Triage_Loopback,Has_Lab_Skip,Visit_Start
+CF00001,9,Female,General Medicine,High,True,False,2026-03-11 23:44:00
+CF00002,12,Female,Orthopedics,Medium,False,False,2026-02-19 10:07:00
+CF00003,80,Male,General Medicine,Medium,True,False,2026-01-07 01:50:00
+CF00004,18,Female,Emergency,Low,False,False,2026-02-03 07:56:00
+CF00005,7,Female,Emergency,Low,True,False,2026-02-12 14:14:00
+CF00006,64,Female,Cardiology,High,True,False,2026-03-23 03:52:00
+CF00007,73,Male,General Medicine,Medium,False,False,2026-01-01 23:54:00
+CF00008,11,Male,Trauma,Medium,False,False,2026-02-21 05:12:00
+CF00009,55,Female,Emergency,Low,False,False,2026-01-04 02:33:00
+CF00010,27,Male,General Medicine,Medium,False,False,2026-02-07 22:47:00
+CF00011,10,Male,Emergency,Medium,False,False,2026-01-09 10:30:00
+CF00012,35,Female,Emergency,Medium,True,False,2026-02-01 03:59:00
+CF00013,42,Male,General Medicine,High,False,False,2026-01-25 06:16:00
+CF00014,42,Female,Trauma,Medium,True,False,2026-02-12 00:31:00
+CF00015,28,Male,Emergency,Medium,False,False,2026-02-26 18:59:00
+CF00016,14,Female,Emergency,Medium,False,False,2026-02-10 13:36:00
+CF00017,14,Male,Emergency,High,False,False,2026-03-28 14:29:00
+CF00018,43,Female,Trauma,Medium,False,True,2026-02-03 01:32:00
+CF00019,13,Male,General Medicine,Low,True,False,2026-01-23 06:45:00
+CF00020,56,Female,Trauma,Low,True,False,2026-03-24 18:35:00
+CF00021,86,Female,Emergency,Medium,False,False,2026-02-18 07:37:00
+CF00022,14,Male,Cardiology,High,False,False,2026-03-22 14:01:00
+CF00023,34,Female,Emergency,High,False,False,2026-01-04 04:55:00
+CF00024,68,Male,Emergency,High,True,False,2026-01-17 11:13:00
+CF00025,13,Female,Emergency,Low,False,False,2026-01-28 00:30:00
+CF00026,38,Male,General Medicine,High,True,False,2026-01-19 07:30:00
+CF00027,28,Male,Orthopedics,Medium,True,False,2026-03-28 18:12:00
+CF00028,76,Female,Orthopedics,Medium,False,False,2026-01-10 20:44:00
+CF00029,71,Female,Cardiology,Low,False,False,2026-01-31 09:58:00
+CF00030,68,Female,Emergency,Medium,False,False,2026-02-24 14:42:00
+CF00031,22,Male,Emergency,High,True,False,2026-02-13 02:54:00
+CF00032,84,Male,Emergency,Low,True,False,2026-01-14 06:45:00
+CF00033,16,Female,General Medicine,Medium,True,False,2026-03-16 20:57:00
+CF00034,49,Female,Emergency,Low,False,False,2026-01-05 05:54:00
+CF00035,48,Female,Emergency,High,False,False,2026-03-17 16:12:00
+CF00036,29,Male,General Medicine,Medium,True,False,2026-03-14 12:22:00
+CF00037,42,Female,Emergency,Medium,True,False,2026-02-09 08:36:00
+CF00038,46,Female,General Medicine,Medium,True,False,2026-02-03 07:24:00
+CF00039,30,Male,General Medicine,High,False,False,2026-03-11 07:10:00
+CF00040,4,Male,Emergency,High,False,False,2026-01-19 13:11:00
+CF00041,85,Female,Cardiology,Critical,False,False,2026-04-01 00:47:00
+CF00042,65,Female,Emergency,Medium,False,False,2026-02-23 10:33:00
+CF00043,69,Male,Trauma,Medium,False,False,2026-03-13 01:39:00
+CF00044,66,Male,Emergency,Medium,False,False,2026-02-08 00:11:00
+CF00045,29,Female,Orthopedics,Low,False,False,2026-01-12 20:18:00
+CF00046,33,Female,Orthopedics,Medium,False,False,2026-03-12 13:27:00
+CF00047,58,Female,General Medicine,Medium,True,False,2026-01-09 22:39:00
+CF00048,29,Female,General Medicine,High,True,False,2026-02-10 03:23:00
+CF00049,76,Female,General Medicine,Critical,False,False,2026-03-03 14:22:00
+CF00050,41,Male,Orthopedics,Low,False,False,2026-01-14 04:55:00
+CF00051,55,Male,Cardiology,Low,True,False,2026-03-02 13:19:00
+CF00052,74,Female,Emergency,Low,False,False,2026-03-17 18:02:00
+CF00053,14,Male,Emergency,Low,False,False,2026-03-09 18:45:00
+CF00054,1,Male,Emergency,High,True,False,2026-01-05 03:28:00
+CF00055,71,Male,Emergency,Medium,False,False,2026-02-07 23:40:00
+CF00056,40,Female,Emergency,Medium,False,False,2026-03-26 23:41:00
+CF00057,28,Female,General Medicine,Medium,False,False,2026-03-17 22:38:00
+CF00058,83,Female,Emergency,Medium,False,False,2026-01-04 13:53:00
+CF00059,59,Female,Trauma,High,False,False,2026-02-17 16:58:00
+CF00060,51,Male,Trauma,Medium,False,False,2026-03-22 02:37:00
+CF00061,11,Female,Emergency,High,True,False,2026-02-21 05:02:00
+CF00062,82,Male,Emergency,High,True,False,2026-01-02 15:42:00
+CF00063,87,Other,Emergency,High,False,False,2026-03-10 02:38:00
+CF00064,61,Male,Emergency,Low,False,False,2026-01-20 03:33:00
+CF00065,90,Female,Emergency,Medium,True,False,2026-03-17 12:35:00
+CF00066,28,Male,Emergency,Low,True,False,2026-01-17 14:48:00
+CF00067,8,Female,General Medicine,High,False,False,2026-03-13 19:59:00
+CF00068,67,Female,Emergency,High,False,False,2026-02-18 21:22:00
+CF00069,53,Male,Emergency,Medium,False,False,2026-01-03 07:23:00
+CF00070,36,Female,Emergency,Low,False,False,2026-01-17 07:24:00
+CF00071,1,Female,General Medicine,High,False,False,2026-03-21 10:41:00
+CF00072,47,Male,Cardiology,High,True,False,2026-03-07 04:42:00
+CF00073,59,Male,Emergency,Critical,False,False,2026-02-27 15:56:00
+CF00074,46,Male,Emergency,Critical,False,False,2026-03-12 07:03:00
+CF00075,50,Male,Cardiology,High,True,False,2026-01-06 06:54:00
+CF00076,69,Male,General Medicine,High,False,False,2026-03-06 12:38:00
+CF00077,78,Female,General Medicine,Medium,True,False,2026-03-10 16:50:00
+CF00078,38,Female,Emergency,High,False,False,2026-03-19 02:00:00
+CF00079,17,Female,General Medicine,Medium,False,False,2026-02-27 18:36:00
+CF00080,11,Other,Trauma,High,True,False,2026-02-22 01:43:00
+CF00081,33,Female,Emergency,Low,False,False,2026-03-21 14:21:00
+CF00082,87,Male,Cardiology,Medium,True,False,2026-03-10 00:14:00
+CF00083,67,Male,Emergency,Medium,True,False,2026-01-28 07:20:00
+CF00084,6,Male,Emergency,High,False,False,2026-02-20 20:49:00
+CF00085,82,Male,Trauma,Low,True,False,2026-02-08 18:38:00
+CF00086,13,Male,Emergency,Low,True,False,2026-01-04 13:25:00
+CF00087,29,Female,Emergency,Low,True,False,2026-03-23 03:13:00
+CF00088,21,Female,Cardiology,Low,True,False,2026-02-07 19:52:00
+CF00089,39,Male,Emergency,High,True,False,2026-02-24 02:31:00
+CF00090,67,Male,Emergency,Low,False,False,2026-01-31 02:23:00
+CF00091,83,Female,Emergency,Low,True,False,2026-03-05 21:31:00
+CF00092,62,Female,Trauma,High,True,False,2026-03-18 18:46:00
+CF00093,83,Female,Orthopedics,Medium,True,False,2026-03-08 09:44:00
+CF00094,27,Female,Emergency,Medium,True,False,2026-01-20 19:19:00
+CF00095,66,Male,Emergency,High,False,False,2026-01-22 14:21:00
+CF00096,6,Male,Emergency,Critical,True,False,2026-01-16 21:33:00
+CF00097,81,Male,General Medicine,Medium,True,False,2026-03-07 06:40:00
+CF00098,88,Female,Emergency,Medium,False,False,2026-03-17 14:17:00
+CF00099,36,Male,Trauma,High,False,False,2026-01-14 19:32:00
+CF00100,4,Male,Emergency,Medium,False,False,2026-03-13 23:25:00
+CF00101,87,Female,Cardiology,Low,False,False,2026-02-01 04:06:00
+CF00102,59,Male,General Medicine,High,False,False,2026-02-04 10:45:00
+CF00103,78,Male,Emergency,Low,False,True,2026-01-20 06:20:00
+CF00104,65,Male,Emergency,Medium,False,False,2026-02-04 22:53:00
+CF00105,46,Female,Emergency,Medium,True,False,2026-02-12 10:06:00
+CF00106,86,Female,General Medicine,Low,False,False,2026-02-13 08:35:00
+CF00107,6,Female,Emergency,Low,False,False,2026-02-12 11:46:00
+CF00108,23,Female,Cardiology,High,False,False,2026-02-25 14:09:00
+CF00109,37,Female,Emergency,Medium,False,False,2026-01-13 17:38:00
+CF00110,23,Female,Trauma,High,False,False,2026-03-18 15:28:00
+CF00111,3,Female,Emergency,Critical,False,False,2026-03-11 20:16:00
+CF00112,17,Female,Emergency,Medium,False,False,2026-02-22 00:30:00
+CF00113,65,Female,Orthopedics,Low,False,False,2026-01-23 16:33:00
+CF00114,48,Male,Emergency,Medium,True,False,2026-01-17 18:12:00
+CF00115,34,Female,Emergency,Medium,True,False,2026-02-20 05:32:00
+CF00116,42,Female,Emergency,Medium,False,False,2026-03-15 20:31:00
+CF00117,75,Female,Emergency,Low,False,False,2026-03-25 04:38:00
+CF00118,20,Male,General Medicine,Medium,True,False,2026-02-20 01:41:00
+CF00119,72,Female,Emergency,Medium,False,False,2026-01-12 22:42:00
+CF00120,60,Male,Orthopedics,Medium,True,False,2026-02-20 08:30:00
+CF00121,89,Male,Orthopedics,High,False,False,2026-02-10 19:12:00
+CF00122,33,Male,Trauma,Medium,False,False,2026-03-07 14:13:00
+CF00123,37,Female,Emergency,Medium,True,False,2026-02-01 03:30:00
+CF00124,2,Female,General Medicine,Low,False,False,2026-03-24 12:32:00
+CF00125,69,Female,Orthopedics,Medium,True,False,2026-01-13 19:29:00
+CF00126,55,Female,Emergency,Medium,False,False,2026-02-09 23:12:00
+CF00127,64,Male,Orthopedics,Medium,False,False,2026-03-21 02:13:00
+CF00128,57,Female,Orthopedics,Low,False,False,2026-03-26 13:56:00
+CF00129,21,Male,Emergency,Medium,False,False,2026-03-10 23:11:00
+CF00130,37,Female,Cardiology,High,True,False,2026-02-03 06:33:00
+CF00131,22,Male,Emergency,Low,False,False,2026-01-13 18:47:00
+CF00132,56,Male,Emergency,Critical,True,False,2026-02-23 07:21:00
+CF00133,41,Male,Emergency,Low,False,False,2026-01-11 09:35:00
+CF00134,90,Other,Emergency,Medium,False,False,2026-01-30 04:11:00
+CF00135,19,Male,General Medicine,Medium,False,False,2026-01-05 23:03:00
+CF00136,68,Male,Cardiology,Medium,True,False,2026-02-21 14:54:00
+CF00137,26,Female,Emergency,Low,False,True,2026-01-07 09:50:00
+CF00138,31,Female,Cardiology,High,False,False,2026-01-16 10:52:00
+CF00139,67,Female,Trauma,High,False,False,2026-01-29 03:47:00
+CF00140,59,Female,Emergency,Low,True,False,2026-03-09 23:13:00
+CF00141,13,Male,Emergency,Medium,False,False,2026-03-28 08:20:00
+CF00142,43,Female,Trauma,High,False,False,2026-03-01 09:07:00
+CF00143,5,Male,Emergency,Medium,False,False,2026-01-10 16:14:00
+CF00144,68,Male,Trauma,Medium,False,False,2026-01-25 16:42:00
+CF00145,81,Male,Cardiology,Low,False,False,2026-03-17 23:25:00
+CF00146,43,Female,Emergency,Medium,True,False,2026-02-23 01:15:00
+CF00147,13,Male,Emergency,Medium,True,False,2026-02-17 14:20:00
+CF00148,73,Male,Emergency,Low,True,False,2026-03-22 06:52:00
+CF00149,68,Male,Orthopedics,Medium,True,False,2026-01-20 05:31:00
+CF00150,83,Female,Emergency,Critical,False,False,2026-03-14 21:22:00
+CF00151,53,Female,Emergency,Medium,True,False,2026-03-14 04:48:00
+CF00152,40,Male,Orthopedics,High,True,False,2026-02-09 04:04:00
+CF00153,42,Male,Emergency,Medium,True,False,2026-01-07 16:19:00
+CF00154,88,Female,General Medicine,Medium,True,False,2026-02-05 08:26:00
+CF00155,61,Female,Emergency,Critical,False,False,2026-03-30 10:24:00
+CF00156,83,Female,Cardiology,High,False,False,2026-02-20 23:21:00
+CF00157,30,Male,Trauma,Medium,True,False,2026-03-02 19:37:00
+CF00158,22,Male,Emergency,High,False,False,2026-03-29 05:17:00
+CF00159,73,Male,Orthopedics,Medium,False,False,2026-03-26 11:29:00
+CF00160,80,Male,Emergency,Medium,False,True,2026-03-13 20:39:00
+CF00161,40,Female,Emergency,Medium,False,False,2026-03-04 10:40:00
+CF00162,20,Female,Emergency,Low,True,False,2026-02-16 10:01:00
+CF00163,23,Male,General Medicine,High,False,False,2026-01-08 14:23:00
+CF00164,90,Male,General Medicine,Low,True,False,2026-02-17 07:42:00
+CF00165,83,Female,Emergency,High,False,False,2026-01-11 21:48:00
+CF00166,41,Female,Emergency,Critical,True,False,2026-02-16 13:14:00
+CF00167,12,Male,Cardiology,Critical,False,False,2026-03-06 00:56:00
+CF00168,49,Male,General Medicine,Critical,False,False,2026-03-19 23:06:00
+CF00169,11,Female,Emergency,High,False,False,2026-01-09 09:52:00
+CF00170,19,Other,Trauma,Low,False,False,2026-01-04 23:47:00
+CF00171,84,Female,Orthopedics,Medium,False,False,2026-01-07 00:47:00
+CF00172,56,Male,Emergency,Critical,True,False,2026-02-12 19:23:00
+CF00173,30,Male,Emergency,Low,False,False,2026-03-11 16:52:00
+CF00174,65,Female,Emergency,Critical,True,False,2026-02-23 07:54:00
+CF00175,25,Male,Emergency,Medium,True,False,2026-03-31 20:48:00
+CF00176,5,Other,Cardiology,Medium,False,False,2026-03-14 10:21:00
+CF00177,82,Male,General Medicine,High,True,False,2026-02-08 20:50:00
+CF00178,34,Female,Trauma,High,False,False,2026-02-18 06:03:00
+CF00179,35,Male,Cardiology,High,True,False,2026-01-19 04:56:00
+CF00180,18,Female,Cardiology,Medium,False,False,2026-03-17 14:17:00
+CF00181,73,Female,Emergency,Medium,False,False,2026-01-14 14:26:00
+CF00182,71,Male,Emergency,High,False,False,2026-01-31 21:35:00
+CF00183,31,Female,Emergency,High,True,False,2026-02-05 14:50:00
+CF00184,34,Female,Orthopedics,High,False,False,2026-01-03 11:07:00
+CF00185,40,Male,Emergency,High,True,False,2026-03-22 09:55:00
+CF00186,37,Male,Cardiology,Medium,True,False,2026-03-06 11:55:00
+CF00187,61,Male,Emergency,Medium,True,False,2026-03-20 21:29:00
+CF00188,51,Female,Emergency,Low,True,False,2026-02-26 23:28:00
+CF00189,61,Female,Emergency,High,False,False,2026-01-18 14:32:00
+CF00190,22,Female,Emergency,Critical,False,False,2026-03-05 06:58:00
+CF00191,53,Male,Emergency,Low,False,False,2026-02-04 09:10:00
+CF00192,47,Male,Emergency,Low,False,False,2026-01-22 15:00:00
+CF00193,40,Male,General Medicine,Medium,False,False,2026-02-13 11:32:00
+CF00194,23,Male,Emergency,High,False,False,2026-01-16 23:18:00
+CF00195,18,Male,Emergency,High,True,False,2026-03-13 23:29:00
+CF00196,37,Female,Emergency,High,True,False,2026-01-08 23:42:00
+CF00197,36,Male,Emergency,High,True,False,2026-03-24 21:34:00
+CF00198,69,Female,Orthopedics,High,False,False,2026-01-06 10:30:00
+CF00199,5,Male,Emergency,Medium,True,False,2026-03-16 04:17:00
+CF00200,36,Male,Emergency,High,False,False,2026-01-24 02:24:00
+CF00201,41,Male,Orthopedics,High,True,False,2026-03-28 18:57:00
+CF00202,9,Female,Emergency,High,False,False,2026-02-25 05:43:00
+CF00203,23,Female,General Medicine,Medium,False,True,2026-03-11 15:37:00
+CF00204,29,Male,Emergency,Low,False,True,2026-02-21 01:12:00
+CF00205,79,Male,Cardiology,Medium,False,False,2026-01-05 21:54:00
+CF00206,71,Female,Emergency,Low,False,False,2026-01-11 01:07:00
+CF00207,10,Female,Emergency,Medium,False,False,2026-02-13 04:26:00
+CF00208,13,Other,Orthopedics,High,True,False,2026-03-16 20:15:00
+CF00209,35,Other,Emergency,Low,False,False,2026-01-07 18:01:00
+CF00210,80,Male,General Medicine,Medium,False,False,2026-01-16 10:34:00
+CF00211,71,Female,Cardiology,Low,True,False,2026-01-24 19:07:00
+CF00212,69,Female,General Medicine,Low,False,False,2026-03-30 23:20:00
+CF00213,26,Male,Emergency,Medium,False,False,2026-02-26 07:13:00
+CF00214,41,Female,Emergency,Low,False,False,2026-03-11 17:16:00
+CF00215,4,Female,Trauma,Medium,False,False,2026-03-10 18:30:00
+CF00216,67,Female,Emergency,Medium,False,False,2026-02-20 11:57:00
+CF00217,54,Female,Emergency,Low,False,False,2026-01-17 14:42:00
+CF00218,52,Female,Emergency,Critical,False,False,2026-02-05 21:49:00
+CF00219,14,Male,General Medicine,Medium,False,False,2026-01-22 02:16:00
+CF00220,23,Female,Orthopedics,Medium,False,False,2026-02-01 00:19:00
+CF00221,30,Male,Emergency,High,False,False,2026-01-19 16:20:00
+CF00222,72,Female,Trauma,Medium,False,False,2026-02-22 03:30:00
+CF00223,73,Female,Emergency,Low,False,False,2026-01-31 08:28:00
+CF00224,50,Female,Emergency,Medium,False,False,2026-03-04 04:26:00
+CF00225,73,Male,Trauma,Low,False,False,2026-01-03 06:55:00
+CF00226,81,Female,Orthopedics,Low,False,False,2026-03-23 02:19:00
+CF00227,18,Male,Emergency,Medium,False,False,2026-02-24 06:45:00
+CF00228,32,Male,Emergency,Low,False,False,2026-02-27 04:13:00
+CF00229,5,Female,Emergency,Medium,True,False,2026-01-10 14:02:00
+CF00230,16,Male,Emergency,High,False,True,2026-01-28 15:49:00
+CF00231,2,Male,Orthopedics,Critical,False,False,2026-03-13 08:58:00
+CF00232,85,Female,Emergency,Medium,False,False,2026-02-25 15:49:00
+CF00233,43,Male,Orthopedics,Medium,False,False,2026-03-29 15:11:00
+CF00234,54,Male,Cardiology,Low,True,False,2026-03-27 03:56:00
+CF00235,84,Female,Orthopedics,Medium,True,False,2026-02-10 21:54:00
+CF00236,38,Male,Emergency,Medium,False,False,2026-02-13 02:39:00
+CF00237,86,Male,Cardiology,Low,False,False,2026-01-25 16:51:00
+CF00238,49,Female,Emergency,Medium,False,False,2026-01-27 03:02:00
+CF00239,34,Male,Emergency,Low,True,False,2026-01-31 13:20:00
+CF00240,77,Male,Trauma,Low,True,False,2026-02-18 01:45:00
+CF00241,85,Female,General Medicine,Medium,True,False,2026-03-11 14:29:00
+CF00242,67,Female,Emergency,Medium,True,False,2026-01-05 03:28:00
+CF00243,76,Female,Orthopedics,Medium,False,False,2026-01-20 00:10:00
+CF00244,71,Female,Orthopedics,Medium,False,False,2026-02-15 16:46:00
+CF00245,78,Female,Cardiology,Medium,True,False,2026-01-30 23:03:00
+CF00246,18,Female,General Medicine,Low,True,False,2026-01-04 03:06:00
+CF00247,32,Male,Emergency,Medium,False,False,2026-01-25 06:10:00
+CF00248,67,Male,Emergency,Low,False,False,2026-01-04 20:11:00
+CF00249,55,Male,Orthopedics,High,True,False,2026-02-17 17:47:00
+CF00250,41,Female,Emergency,High,True,False,2026-02-25 12:18:00
+CF00251,3,Female,Emergency,Low,True,False,2026-03-30 13:16:00
+CF00252,21,Male,Orthopedics,Critical,False,False,2026-01-19 12:34:00
+CF00253,69,Male,Emergency,High,False,False,2026-03-11 02:58:00
+CF00254,84,Male,General Medicine,Low,True,False,2026-03-31 19:37:00
+CF00255,78,Female,Emergency,Medium,True,False,2026-03-01 15:56:00
+CF00256,5,Female,Emergency,High,True,False,2026-03-21 11:31:00
+CF00257,46,Female,Trauma,Medium,False,False,2026-03-29 04:30:00
+CF00258,45,Male,Trauma,Low,True,False,2026-03-29 10:00:00
+CF00259,84,Female,General Medicine,Medium,True,False,2026-01-31 15:46:00
+CF00260,27,Male,Orthopedics,Low,False,False,2026-01-24 14:29:00
+CF00261,65,Female,Emergency,Low,False,False,2026-01-29 15:16:00
+CF00262,83,Female,Orthopedics,High,True,False,2026-01-09 05:33:00
+CF00263,18,Male,General Medicine,Medium,True,False,2026-02-23 12:41:00
+CF00264,41,Male,Cardiology,High,True,False,2026-01-09 19:05:00
+CF00265,27,Female,Emergency,Medium,True,False,2026-01-18 06:21:00
+CF00266,23,Male,Emergency,High,False,False,2026-02-01 10:01:00
+CF00267,72,Female,General Medicine,Medium,False,False,2026-01-03 00:43:00
+CF00268,64,Male,Cardiology,High,False,False,2026-03-09 23:16:00
+CF00269,79,Female,Emergency,Medium,False,False,2026-02-14 06:52:00
+CF00270,64,Female,Cardiology,Low,False,False,2026-03-05 16:09:00
+CF00271,64,Male,Emergency,Medium,True,False,2026-01-07 21:17:00
+CF00272,89,Male,Emergency,Medium,False,False,2026-03-27 17:34:00
+CF00273,54,Male,Emergency,Critical,True,False,2026-01-01 14:31:00
+CF00274,10,Male,Emergency,High,True,False,2026-03-11 02:24:00
+CF00275,89,Female,Trauma,Low,False,False,2026-01-15 07:09:00
+CF00276,67,Male,Emergency,High,False,False,2026-02-08 21:19:00
+CF00277,66,Female,Emergency,High,False,False,2026-01-08 02:45:00
+CF00278,49,Female,Emergency,Medium,False,False,2026-03-19 03:50:00
+CF00279,14,Male,Emergency,Low,False,False,2026-03-25 00:14:00
+CF00280,6,Male,Emergency,Medium,True,False,2026-02-03 07:48:00
+CF00281,79,Male,General Medicine,Low,False,False,2026-02-09 15:17:00
+CF00282,27,Other,General Medicine,Low,True,False,2026-03-10 22:27:00
+CF00283,1,Male,Emergency,Critical,True,False,2026-02-15 16:31:00
+CF00284,63,Male,Emergency,High,False,False,2026-03-10 02:38:00
+CF00285,62,Other,Trauma,Medium,False,False,2026-02-05 09:49:00
+CF00286,77,Female,General Medicine,Low,True,False,2026-03-26 03:57:00
+CF00287,63,Male,Cardiology,High,False,False,2026-02-12 11:40:00
+CF00288,6,Male,General Medicine,Medium,False,False,2026-02-23 05:02:00
+CF00289,44,Male,Emergency,Low,False,False,2026-02-01 09:48:00
+CF00290,26,Male,Trauma,Medium,True,False,2026-03-13 10:55:00
+CF00291,62,Female,Emergency,Medium,False,False,2026-02-04 12:47:00
+CF00292,66,Male,Trauma,High,True,False,2026-02-10 11:54:00
+CF00293,34,Male,Emergency,Medium,True,False,2026-01-21 15:50:00
+CF00294,73,Female,Orthopedics,Medium,False,False,2026-03-14 13:50:00
+CF00295,47,Male,Cardiology,Low,False,True,2026-02-26 18:59:00
+CF00296,75,Female,Orthopedics,Low,False,False,2026-03-12 14:07:00
+CF00297,79,Female,Cardiology,Low,True,False,2026-01-12 02:00:00
+CF00298,15,Male,General Medicine,Medium,False,False,2026-03-28 23:25:00
+CF00299,23,Male,General Medicine,Medium,True,False,2026-02-27 03:34:00
+CF00300,34,Female,Trauma,Medium,False,False,2026-03-17 01:37:00
+CF00301,5,Female,Emergency,Medium,False,False,2026-03-29 15:03:00
+CF00302,26,Male,Emergency,Low,False,True,2026-03-15 18:13:00
+CF00303,68,Male,Emergency,Medium,True,False,2026-03-07 16:15:00
+CF00304,60,Male,Trauma,High,False,False,2026-02-20 12:22:00
+CF00305,84,Female,Emergency,High,True,False,2026-02-02 02:03:00
+CF00306,19,Female,Cardiology,High,False,False,2026-02-10 22:21:00
+CF00307,8,Female,Orthopedics,Critical,False,False,2026-02-17 08:20:00
+CF00308,10,Male,General Medicine,Low,True,False,2026-01-14 07:22:00
+CF00309,70,Female,Emergency,Medium,False,False,2026-03-24 14:02:00
+CF00310,32,Male,Emergency,Medium,False,False,2026-01-21 21:12:00
+CF00311,8,Male,General Medicine,High,False,False,2026-01-23 01:45:00
+CF00312,34,Male,Trauma,High,False,False,2026-01-19 04:30:00
+CF00313,72,Male,Orthopedics,High,False,False,2026-02-05 17:57:00
+CF00314,19,Male,Emergency,Low,False,False,2026-02-05 19:57:00
+CF00315,45,Male,Emergency,High,False,False,2026-01-28 11:52:00
+CF00316,45,Male,Emergency,Medium,False,False,2026-02-12 19:15:00
+CF00317,77,Female,Emergency,Medium,False,False,2026-03-09 03:24:00
+CF00318,15,Female,Orthopedics,High,False,False,2026-03-27 17:04:00
+CF00319,36,Male,Trauma,Medium,True,False,2026-03-08 01:58:00
+CF00320,28,Female,Orthopedics,Medium,True,False,2026-01-22 00:41:00
+CF00321,21,Male,Emergency,Critical,False,False,2026-03-25 08:51:00
+CF00322,39,Male,Emergency,High,True,False,2026-01-16 10:44:00
+CF00323,50,Female,Emergency,Medium,True,False,2026-01-06 11:20:00
+CF00324,28,Female,Emergency,High,False,False,2026-03-18 07:55:00
+CF00325,3,Female,Cardiology,High,True,False,2026-02-21 09:15:00
+CF00326,48,Male,Orthopedics,Medium,True,False,2026-03-03 00:10:00
+CF00327,41,Male,Orthopedics,High,True,False,2026-01-28 06:59:00
+CF00328,55,Male,Emergency,Medium,True,False,2026-02-02 06:12:00
+CF00329,32,Female,General Medicine,Medium,False,False,2026-02-11 04:22:00
+CF00330,42,Other,Trauma,High,False,False,2026-03-08 22:02:00
+CF00331,90,Male,Trauma,Low,True,False,2026-01-26 07:25:00
+CF00332,82,Female,General Medicine,High,True,False,2026-01-16 06:01:00
+CF00333,54,Female,Emergency,High,False,False,2026-03-21 09:36:00
+CF00334,6,Female,General Medicine,High,True,False,2026-02-12 04:51:00
+CF00335,62,Male,Emergency,Medium,True,False,2026-02-25 08:20:00
+CF00336,69,Female,Emergency,Medium,True,False,2026-01-23 09:58:00
+CF00337,39,Male,General Medicine,Medium,False,False,2026-03-28 11:38:00
+CF00338,89,Male,Emergency,Medium,False,False,2026-02-07 15:09:00
+CF00339,84,Female,Emergency,Medium,True,False,2026-02-09 07:50:00
+CF00340,13,Male,Emergency,Low,True,False,2026-02-06 10:49:00
+CF00341,20,Female,Emergency,Critical,True,False,2026-01-18 18:15:00
+CF00342,49,Female,Emergency,Critical,False,False,2026-03-31 03:16:00
+CF00343,14,Other,General Medicine,Medium,False,False,2026-02-07 00:20:00
+CF00344,79,Male,Emergency,Medium,True,False,2026-01-14 18:14:00
+CF00345,64,Other,Emergency,Low,False,False,2026-01-16 13:39:00
+CF00346,43,Male,Emergency,Medium,False,False,2026-02-03 04:47:00
+CF00347,29,Female,Emergency,Low,False,False,2026-01-13 02:37:00
+CF00348,67,Female,Orthopedics,High,False,False,2026-02-07 23:28:00
+CF00349,83,Male,Emergency,Medium,True,False,2026-01-30 14:11:00
+CF00350,83,Male,Trauma,Medium,True,False,2026-01-10 09:38:00
+CF00351,43,Male,Orthopedics,Low,False,False,2026-01-18 19:36:00
+CF00352,56,Male,Emergency,Medium,False,False,2026-03-21 02:12:00
+CF00353,50,Female,General Medicine,Medium,False,False,2026-03-24 13:51:00
+CF00354,75,Female,Emergency,Critical,False,False,2026-03-01 07:02:00
+CF00355,8,Male,Emergency,Medium,True,False,2026-03-10 13:37:00
+CF00356,41,Female,Orthopedics,High,True,False,2026-03-05 04:05:00
+CF00357,67,Female,Emergency,Medium,True,False,2026-02-05 09:17:00
+CF00358,43,Female,Emergency,Medium,False,False,2026-03-13 10:11:00
+CF00359,17,Male,Orthopedics,Medium,False,False,2026-02-05 08:20:00
+CF00360,29,Male,Cardiology,Low,True,False,2026-02-28 03:51:00
+CF00361,45,Male,Emergency,Low,True,False,2026-01-22 01:47:00
+CF00362,29,Female,Emergency,Medium,False,False,2026-02-03 23:40:00
+CF00363,74,Male,Orthopedics,High,True,False,2026-01-01 23:20:00
+CF00364,21,Male,General Medicine,High,True,False,2026-01-11 14:02:00
+CF00365,83,Male,Cardiology,High,False,False,2026-03-23 12:03:00
+CF00366,56,Female,Emergency,Critical,False,False,2026-01-24 12:36:00
+CF00367,30,Male,Orthopedics,Low,True,False,2026-03-03 15:06:00
+CF00368,43,Female,Emergency,Medium,True,False,2026-02-27 06:05:00
+CF00369,41,Female,Trauma,Low,True,False,2026-02-26 12:29:00
+CF00370,49,Female,General Medicine,High,False,False,2026-01-10 04:21:00
+CF00371,28,Female,Emergency,Critical,False,False,2026-01-04 09:09:00
+CF00372,27,Female,Emergency,Medium,True,False,2026-01-17 20:59:00
+CF00373,6,Male,Orthopedics,Medium,False,False,2026-01-06 06:14:00
+CF00374,21,Female,Trauma,Low,False,False,2026-01-09 23:46:00
+CF00375,62,Female,Emergency,High,True,False,2026-01-04 16:18:00
+CF00376,75,Female,General Medicine,Low,False,False,2026-01-16 23:21:00
+CF00377,3,Male,General Medicine,Medium,True,False,2026-01-24 10:42:00
+CF00378,49,Male,General Medicine,High,False,False,2026-03-10 20:51:00
+CF00379,10,Female,General Medicine,Medium,False,False,2026-03-02 22:55:00
+CF00380,55,Female,Emergency,Medium,False,False,2026-01-02 12:03:00
+CF00381,73,Male,General Medicine,Low,False,False,2026-01-22 18:01:00
+CF00382,47,Female,Emergency,Critical,True,False,2026-01-16 02:47:00
+CF00383,83,Female,Trauma,Low,True,False,2026-01-26 16:25:00
+CF00384,47,Female,Emergency,Medium,False,False,2026-02-20 02:30:00
+CF00385,4,Female,Emergency,Medium,False,False,2026-01-07 01:55:00
+CF00386,32,Female,Trauma,Critical,False,False,2026-03-27 23:19:00
+CF00387,44,Male,Emergency,Medium,False,True,2026-01-04 10:12:00
+CF00388,18,Male,Emergency,Medium,True,False,2026-01-13 06:24:00
+CF00389,50,Male,General Medicine,Critical,False,False,2026-02-14 13:46:00
+CF00390,29,Female,General Medicine,Critical,True,False,2026-03-25 07:58:00
+CF00391,11,Male,Trauma,Medium,True,False,2026-03-26 08:07:00
+CF00392,8,Female,Emergency,Low,False,False,2026-02-19 20:39:00
+CF00393,9,Male,Orthopedics,Low,True,False,2026-03-18 17:20:00
+CF00394,32,Male,Emergency,High,False,False,2026-03-09 02:12:00
+CF00395,63,Male,Trauma,High,False,False,2026-02-15 14:28:00
+CF00396,4,Female,Emergency,Medium,False,False,2026-02-21 02:44:00
+CF00397,17,Male,Emergency,Medium,True,False,2026-02-01 11:49:00
+CF00398,40,Male,Cardiology,Low,True,False,2026-02-03 01:47:00
+CF00399,48,Male,Cardiology,Medium,False,False,2026-02-11 06:38:00
+CF00400,50,Male,Emergency,Medium,True,False,2026-02-06 01:38:00
+CF00401,78,Female,General Medicine,Low,False,False,2026-03-25 18:10:00
+CF00402,82,Male,Trauma,High,True,False,2026-03-21 02:56:00
+CF00403,49,Female,Emergency,Medium,False,False,2026-02-16 08:08:00
+CF00404,78,Female,Emergency,Medium,True,False,2026-02-02 02:05:00
+CF00405,39,Male,Orthopedics,Medium,True,False,2026-03-16 06:41:00
+CF00406,30,Female,Emergency,Medium,True,False,2026-01-05 13:39:00
+CF00407,2,Male,Cardiology,Medium,False,False,2026-03-03 10:48:00
+CF00408,90,Male,Orthopedics,Critical,True,False,2026-01-08 10:25:00
+CF00409,35,Male,Trauma,High,True,False,2026-01-27 06:30:00
+CF00410,41,Male,Trauma,Medium,False,False,2026-02-08 22:48:00
+CF00411,26,Male,Trauma,High,False,False,2026-02-10 03:02:00
+CF00412,19,Male,Emergency,Medium,False,False,2026-02-03 13:27:00
+CF00413,68,Female,Emergency,High,False,True,2026-03-10 13:55:00
+CF00414,3,Male,General Medicine,High,True,False,2026-02-21 08:57:00
+CF00415,88,Male,Trauma,High,True,False,2026-01-07 15:48:00
+CF00416,76,Female,Emergency,Medium,True,False,2026-01-11 04:51:00
+CF00417,5,Female,Emergency,Medium,False,False,2026-02-25 00:39:00
+CF00418,21,Male,Cardiology,Medium,True,False,2026-01-28 15:44:00
+CF00419,90,Female,Cardiology,High,False,False,2026-01-14 15:04:00
+CF00420,85,Male,Trauma,Medium,False,False,2026-02-15 04:16:00
+CF00421,88,Male,Emergency,High,False,False,2026-01-17 12:35:00
+CF00422,81,Female,Cardiology,Medium,True,False,2026-02-10 10:46:00
+CF00423,72,Female,Orthopedics,High,False,False,2026-01-11 14:28:00
+CF00424,41,Female,Emergency,High,True,False,2026-03-14 16:23:00
+CF00425,86,Female,Emergency,Medium,False,False,2026-02-09 22:44:00
+CF00426,23,Female,General Medicine,Low,True,False,2026-01-23 12:23:00
+CF00427,63,Female,Emergency,Low,False,False,2026-01-23 10:09:00
+CF00428,37,Male,General Medicine,High,False,False,2026-03-02 11:50:00
+CF00429,54,Female,Emergency,Medium,False,False,2026-01-25 00:03:00
+CF00430,65,Male,Emergency,Low,False,False,2026-01-04 01:15:00
+CF00431,78,Female,Emergency,Low,True,False,2026-03-10 21:58:00
+CF00432,61,Female,Orthopedics,Low,False,False,2026-03-21 11:38:00
+CF00433,20,Female,Trauma,Medium,True,False,2026-03-18 09:43:00
+CF00434,71,Female,Emergency,Medium,True,False,2026-03-21 09:09:00
+CF00435,44,Female,Emergency,Low,False,False,2026-02-01 20:46:00
+CF00436,57,Male,Emergency,High,True,False,2026-01-09 15:16:00
+CF00437,80,Female,General Medicine,Medium,True,False,2026-01-08 14:33:00
+CF00438,80,Male,Orthopedics,High,False,False,2026-03-08 09:51:00
+CF00439,73,Male,General Medicine,Medium,False,False,2026-01-14 17:07:00
+CF00440,77,Female,General Medicine,High,False,False,2026-03-28 21:40:00
+CF00441,16,Other,General Medicine,Medium,False,False,2026-02-28 10:01:00
+CF00442,73,Female,Emergency,High,False,False,2026-02-16 07:14:00
+CF00443,47,Female,Emergency,High,True,False,2026-02-13 15:15:00
+CF00444,14,Female,Emergency,Low,True,False,2026-03-31 06:27:00
+CF00445,60,Male,Orthopedics,Critical,False,False,2026-02-12 13:16:00
+CF00446,56,Male,Emergency,Critical,False,False,2026-01-08 09:02:00
+CF00447,84,Male,Emergency,Low,False,False,2026-03-04 02:44:00
+CF00448,10,Male,General Medicine,Medium,False,False,2026-02-20 22:37:00
+CF00449,29,Female,Emergency,Low,False,False,2026-02-25 20:23:00
+CF00450,76,Male,Emergency,Low,True,False,2026-01-13 17:07:00
+CF00451,76,Male,Trauma,Medium,True,False,2026-02-19 16:20:00
+CF00452,73,Male,General Medicine,Medium,False,False,2026-03-26 12:54:00
+CF00453,62,Female,Emergency,High,False,False,2026-02-16 14:38:00
+CF00454,81,Male,Emergency,High,True,False,2026-02-16 02:01:00
+CF00455,36,Male,Cardiology,Low,False,False,2026-02-09 10:19:00
+CF00456,80,Female,Emergency,Critical,False,False,2026-03-03 03:57:00
+CF00457,34,Female,Emergency,Low,False,False,2026-01-19 22:44:00
+CF00458,74,Male,General Medicine,High,False,False,2026-02-08 00:08:00
+CF00459,77,Male,Emergency,Medium,False,False,2026-03-06 10:10:00
+CF00460,67,Female,Emergency,Low,True,False,2026-01-29 07:53:00
+CF00461,34,Male,Cardiology,High,False,False,2026-01-15 12:28:00
+CF00462,26,Female,Trauma,Medium,False,False,2026-02-05 02:34:00
+CF00463,79,Female,Emergency,High,False,False,2026-03-09 14:00:00
+CF00464,59,Male,Emergency,Medium,False,False,2026-02-18 03:53:00
+CF00465,45,Female,Emergency,Low,True,False,2026-01-30 11:57:00
+CF00466,67,Male,Emergency,Medium,False,False,2026-01-09 12:50:00
+CF00467,54,Other,Emergency,Critical,True,False,2026-01-31 20:08:00
+CF00468,84,Female,Emergency,Medium,False,False,2026-02-01 08:54:00
+CF00469,47,Female,Emergency,Low,True,False,2026-03-01 01:40:00
+CF00470,54,Male,Emergency,Low,True,False,2026-02-10 00:36:00
+CF00471,90,Other,Emergency,Medium,True,False,2026-01-02 00:01:00
+CF00472,65,Female,Emergency,High,False,False,2026-01-31 21:40:00
+CF00473,45,Female,Trauma,Low,True,False,2026-03-31 22:38:00
+CF00474,23,Female,Emergency,Medium,False,False,2026-02-19 16:14:00
+CF00475,82,Male,General Medicine,Critical,False,False,2026-02-28 14:54:00
+CF00476,70,Male,Emergency,Low,True,False,2026-02-27 23:12:00
+CF00477,40,Male,Orthopedics,Low,False,False,2026-03-01 19:14:00
+CF00478,8,Male,Trauma,Medium,False,False,2026-03-06 21:50:00
+CF00479,86,Female,Orthopedics,High,False,False,2026-02-10 17:57:00
+CF00480,60,Male,Emergency,High,True,False,2026-01-26 15:38:00
+CF00481,3,Female,Trauma,Medium,True,False,2026-03-26 05:12:00
+CF00482,10,Male,Trauma,High,False,False,2026-01-29 04:50:00
+CF00483,69,Male,Emergency,Low,True,False,2026-01-20 14:58:00
+CF00484,40,Male,Emergency,Medium,False,False,2026-01-27 21:17:00
+CF00485,83,Male,Cardiology,Medium,False,False,2026-01-31 21:32:00
+CF00486,32,Female,Orthopedics,Medium,False,False,2026-03-20 04:47:00
+CF00487,14,Male,General Medicine,Medium,False,False,2026-03-12 15:57:00
+CF00488,13,Female,Cardiology,Medium,False,False,2026-02-16 04:05:00
+CF00489,4,Female,Emergency,Medium,True,False,2026-01-10 05:25:00
+CF00490,45,Female,Trauma,Medium,True,False,2026-02-18 17:42:00
+CF00491,19,Male,Cardiology,Medium,True,False,2026-01-16 01:41:00
+CF00492,36,Female,General Medicine,Critical,False,False,2026-02-18 14:48:00
+CF00493,56,Other,Cardiology,Medium,False,False,2026-03-21 15:37:00
+CF00494,88,Female,Emergency,Low,False,False,2026-03-14 22:45:00
+CF00495,76,Female,Emergency,Medium,False,False,2026-03-22 21:01:00
+CF00496,77,Male,General Medicine,High,True,False,2026-01-10 20:33:00
+CF00497,63,Female,Emergency,Medium,False,False,2026-01-08 18:25:00
+CF00498,24,Female,Emergency,Low,True,False,2026-03-03 22:34:00
+CF00499,16,Male,Orthopedics,Medium,True,False,2026-02-12 13:13:00
+CF00500,44,Male,General Medicine,Medium,False,False,2026-02-04 22:06:00
+CF00501,65,Female,Emergency,High,True,False,2026-02-24 14:08:00
+CF00502,42,Male,Emergency,Low,False,False,2026-02-18 02:26:00
+CF00503,80,Female,General Medicine,High,False,False,2026-02-15 03:02:00
+CF00504,46,Female,Cardiology,High,True,False,2026-04-01 04:13:00
+CF00505,27,Male,Emergency,Low,False,False,2026-01-05 00:04:00
+CF00506,90,Other,Emergency,Medium,True,False,2026-01-20 19:24:00
+CF00507,37,Female,Trauma,Medium,False,False,2026-01-23 20:42:00
+CF00508,66,Female,Emergency,Medium,False,False,2026-01-02 10:23:00
+CF00509,24,Male,Trauma,Low,False,False,2026-01-03 03:49:00
+CF00510,82,Male,Emergency,Low,False,False,2026-02-19 21:47:00
+CF00511,83,Female,Emergency,Critical,False,False,2026-03-03 10:20:00
+CF00512,72,Male,Emergency,Low,False,False,2026-02-16 08:20:00
+CF00513,69,Male,Cardiology,Medium,True,False,2026-04-01 07:35:00
+CF00514,22,Male,Emergency,Medium,False,False,2026-03-04 13:45:00
+CF00515,89,Male,Emergency,Low,False,False,2026-03-06 18:08:00
+CF00516,37,Female,Emergency,Medium,False,False,2026-02-16 10:00:00
+CF00517,47,Female,Emergency,Low,False,False,2026-02-15 12:43:00
+CF00518,14,Female,Trauma,High,False,False,2026-02-22 17:07:00
+CF00519,69,Female,General Medicine,High,False,True,2026-02-24 01:41:00
+CF00520,54,Male,Cardiology,Medium,True,False,2026-02-14 15:46:00
+CF00521,57,Male,Emergency,Medium,True,False,2026-01-24 11:09:00
+CF00522,56,Female,Emergency,Medium,True,False,2026-02-21 12:53:00
+CF00523,73,Male,Trauma,Medium,False,False,2026-03-23 12:13:00
+CF00524,28,Female,Cardiology,Medium,False,False,2026-03-23 17:58:00
+CF00525,26,Female,Orthopedics,High,False,False,2026-02-20 06:11:00
+CF00526,14,Male,Cardiology,Low,False,False,2026-02-02 13:50:00
+CF00527,78,Female,Orthopedics,Medium,True,False,2026-01-14 22:49:00
+CF00528,4,Male,Trauma,Medium,True,False,2026-02-28 12:26:00
+CF00529,79,Female,Emergency,High,False,False,2026-03-13 11:17:00
+CF00530,48,Male,Emergency,Critical,True,False,2026-01-02 19:05:00
+CF00531,9,Female,Trauma,Medium,False,False,2026-03-11 16:24:00
+CF00532,17,Male,Trauma,Medium,False,False,2026-03-30 01:02:00
+CF00533,59,Female,Emergency,High,True,False,2026-02-09 03:25:00
+CF00534,67,Male,General Medicine,High,True,False,2026-03-31 18:50:00
+CF00535,78,Male,General Medicine,Low,False,False,2026-02-13 15:59:00
+CF00536,3,Other,Emergency,Medium,True,False,2026-03-05 18:55:00
+CF00537,20,Male,General Medicine,Low,True,False,2026-01-07 16:15:00
+CF00538,3,Male,Emergency,Critical,True,False,2026-03-21 04:27:00
+CF00539,20,Male,Emergency,Medium,False,False,2026-01-04 16:16:00
+CF00540,18,Male,Emergency,Low,True,False,2026-03-03 13:34:00
+CF00541,61,Male,Orthopedics,Medium,False,False,2026-03-02 19:33:00
+CF00542,66,Female,Orthopedics,Low,False,False,2026-03-24 18:04:00
+CF00543,31,Other,General Medicine,Medium,True,False,2026-03-25 09:42:00
+CF00544,88,Male,General Medicine,Medium,False,False,2026-02-19 23:37:00
+CF00545,51,Male,Orthopedics,Low,False,False,2026-02-10 12:38:00
+CF00546,77,Female,Emergency,Low,True,False,2026-01-14 23:31:00
+CF00547,87,Female,Emergency,Medium,True,False,2026-01-06 02:32:00
+CF00548,4,Female,Orthopedics,Critical,True,False,2026-03-09 21:44:00
+CF00549,41,Female,Cardiology,Medium,False,False,2026-01-12 16:40:00
+CF00550,62,Male,Emergency,Medium,False,False,2026-02-28 01:46:00
+CF00551,63,Female,Emergency,Medium,True,False,2026-01-25 23:11:00
+CF00552,12,Female,Orthopedics,High,True,False,2026-02-01 02:38:00
+CF00553,3,Female,General Medicine,High,False,False,2026-01-27 00:41:00
+CF00554,36,Male,Emergency,Medium,False,False,2026-02-13 08:35:00
+CF00555,80,Female,Emergency,Medium,False,False,2026-02-03 22:57:00
+CF00556,23,Male,Trauma,High,True,False,2026-03-18 20:21:00
+CF00557,38,Male,Trauma,Medium,True,False,2026-02-10 13:04:00
+CF00558,55,Female,Orthopedics,Medium,True,False,2026-02-27 18:12:00
+CF00559,17,Female,Emergency,Medium,True,False,2026-01-05 18:59:00
+CF00560,4,Female,Cardiology,Medium,True,False,2026-03-25 03:27:00
+CF00561,74,Male,Orthopedics,Medium,True,False,2026-03-25 12:06:00
+CF00562,83,Male,Emergency,Medium,False,False,2026-03-08 17:07:00
+CF00563,24,Female,Emergency,Medium,True,False,2026-02-06 02:14:00
+CF00564,59,Female,Orthopedics,Critical,False,False,2026-03-27 20:11:00
+CF00565,32,Male,Emergency,Medium,True,False,2026-01-13 15:33:00
+CF00566,17,Female,General Medicine,High,False,False,2026-02-09 06:01:00
+CF00567,88,Female,Emergency,Medium,False,False,2026-03-08 00:06:00
+CF00568,85,Female,Emergency,Low,False,False,2026-03-23 14:44:00
+CF00569,43,Male,Emergency,Medium,True,False,2026-03-02 04:11:00
+CF00570,54,Female,General Medicine,Medium,True,False,2026-03-03 04:53:00
+CF00571,74,Male,Emergency,Medium,False,False,2026-01-15 08:58:00
+CF00572,60,Female,Emergency,High,False,False,2026-01-30 01:59:00
+CF00573,47,Male,Emergency,Low,False,False,2026-02-12 00:10:00
+CF00574,60,Female,Emergency,Medium,False,False,2026-02-01 18:36:00
+CF00575,22,Male,Emergency,Medium,False,False,2026-02-22 22:27:00
+CF00576,54,Male,Cardiology,Medium,False,False,2026-01-11 01:38:00
+CF00577,30,Female,Emergency,Medium,False,False,2026-01-21 14:03:00
+CF00578,80,Male,Emergency,Medium,True,False,2026-03-21 21:39:00
+CF00579,47,Male,Emergency,Low,False,False,2026-01-12 06:51:00
+CF00580,74,Male,Orthopedics,Medium,False,False,2026-03-01 13:22:00
+CF00581,60,Female,Emergency,Low,False,False,2026-02-13 00:39:00
+CF00582,71,Female,Emergency,Medium,True,False,2026-03-21 06:56:00
+CF00583,35,Male,Trauma,Critical,False,False,2026-01-06 03:14:00
+CF00584,63,Female,Emergency,High,False,False,2026-03-26 18:41:00
+CF00585,8,Male,Emergency,Low,False,False,2026-02-02 19:33:00
+CF00586,34,Female,General Medicine,Low,False,False,2026-01-16 12:40:00
+CF00587,37,Female,Cardiology,Low,False,False,2026-02-07 09:51:00
+CF00588,15,Female,General Medicine,Medium,True,False,2026-01-19 13:16:00
+CF00589,25,Female,Emergency,Medium,True,False,2026-03-05 16:08:00
+CF00590,20,Male,Emergency,High,True,False,2026-03-01 04:03:00
+CF00591,74,Female,Emergency,Medium,False,False,2026-02-06 14:07:00
+CF00592,44,Male,Orthopedics,Medium,False,False,2026-02-12 10:28:00
+CF00593,71,Female,Emergency,Medium,True,False,2026-02-09 11:20:00
+CF00594,56,Female,Emergency,High,False,False,2026-01-12 22:20:00
+CF00595,50,Female,Emergency,Critical,False,False,2026-02-06 03:34:00
+CF00596,38,Male,Cardiology,Low,True,False,2026-01-06 09:34:00
+CF00597,51,Female,Emergency,Medium,False,False,2026-01-16 12:12:00
+CF00598,25,Male,Emergency,Medium,False,False,2026-02-24 02:43:00
+CF00599,43,Female,Emergency,High,False,False,2026-01-14 18:56:00
+CF00600,38,Male,Orthopedics,Medium,True,False,2026-03-15 21:46:00
+CF00601,11,Male,General Medicine,Medium,False,False,2026-03-31 20:49:00
+CF00602,3,Male,Emergency,High,True,False,2026-03-16 08:31:00
+CF00603,39,Male,Emergency,Critical,False,False,2026-02-25 10:14:00
+CF00604,46,Male,Emergency,Medium,False,False,2026-02-22 19:22:00
+CF00605,71,Other,Emergency,Medium,True,False,2026-03-24 20:03:00
+CF00606,5,Female,Cardiology,Low,False,False,2026-02-20 19:31:00
+CF00607,30,Male,Cardiology,Medium,True,False,2026-03-17 11:28:00
+CF00608,20,Female,Emergency,Low,False,False,2026-01-08 08:41:00
+CF00609,46,Female,General Medicine,Medium,True,False,2026-01-12 15:24:00
+CF00610,65,Male,Emergency,High,True,False,2026-03-22 13:09:00
+CF00611,88,Male,Emergency,Medium,False,False,2026-02-17 21:09:00
+CF00612,48,Male,Trauma,Medium,False,False,2026-01-16 05:22:00
+CF00613,61,Female,Trauma,High,True,False,2026-02-10 04:59:00
+CF00614,16,Female,Orthopedics,Low,True,False,2026-03-09 06:51:00
+CF00615,69,Female,Emergency,Medium,True,False,2026-03-24 07:43:00
+CF00616,51,Female,Emergency,Low,False,False,2026-01-06 02:49:00
+CF00617,88,Male,Emergency,Medium,False,False,2026-03-14 08:32:00
+CF00618,40,Male,Emergency,Low,True,False,2026-03-23 13:13:00
+CF00619,38,Female,Emergency,High,True,False,2026-01-19 11:08:00
+CF00620,79,Male,Emergency,Medium,True,False,2026-03-31 10:32:00
+CF00621,76,Female,Cardiology,Medium,False,False,2026-02-03 11:53:00
+CF00622,75,Male,General Medicine,Medium,False,False,2026-03-09 03:56:00
+CF00623,30,Other,Emergency,Medium,True,False,2026-01-28 13:45:00
+CF00624,55,Female,Cardiology,Medium,False,False,2026-03-31 07:38:00
+CF00625,29,Female,Trauma,Medium,False,False,2026-01-24 22:32:00
+CF00626,90,Female,Emergency,Low,False,False,2026-03-29 21:24:00
+CF00627,13,Female,Emergency,High,True,False,2026-02-05 23:29:00
+CF00628,4,Female,Trauma,Low,False,False,2026-01-14 12:27:00
+CF00629,26,Female,General Medicine,Medium,False,False,2026-01-23 12:59:00
+CF00630,31,Female,Trauma,High,True,False,2026-02-04 05:50:00
+CF00631,69,Male,General Medicine,High,False,False,2026-01-19 16:10:00
+CF00632,38,Female,General Medicine,High,True,False,2026-03-18 16:03:00
+CF00633,22,Male,Emergency,High,True,False,2026-02-08 20:09:00
+CF00634,59,Male,General Medicine,Medium,True,False,2026-02-23 02:32:00
+CF00635,86,Female,Emergency,High,True,False,2026-01-18 08:07:00
+CF00636,35,Other,Emergency,Medium,False,False,2026-01-28 07:42:00
+CF00637,47,Female,Emergency,Medium,False,False,2026-03-03 16:43:00
+CF00638,21,Male,General Medicine,Medium,True,False,2026-02-23 18:06:00
+CF00639,12,Female,Emergency,Medium,False,False,2026-03-28 17:28:00
+CF00640,59,Male,Orthopedics,High,False,False,2026-01-02 08:38:00
+CF00641,34,Female,Emergency,High,False,False,2026-03-08 04:24:00
+CF00642,74,Male,Emergency,Critical,False,False,2026-03-08 13:02:00
+CF00643,4,Male,Orthopedics,Low,False,False,2026-02-22 00:50:00
+CF00644,6,Male,Emergency,Low,False,False,2026-01-30 02:37:00
+CF00645,85,Female,Emergency,Medium,False,False,2026-02-16 23:42:00
+CF00646,19,Female,Orthopedics,Medium,True,False,2026-01-09 07:19:00
+CF00647,24,Male,Emergency,Low,False,False,2026-03-24 11:10:00
+CF00648,30,Male,Orthopedics,Medium,True,False,2026-01-21 19:46:00
+CF00649,56,Male,Emergency,High,True,False,2026-01-11 11:28:00
+CF00650,10,Male,Emergency,Medium,True,False,2026-01-19 17:22:00
+CF00651,56,Female,Emergency,Low,False,False,2026-02-21 15:37:00
+CF00652,18,Male,Emergency,High,False,False,2026-03-17 17:08:00
+CF00653,41,Male,Emergency,Medium,False,False,2026-01-28 03:24:00
+CF00654,50,Female,General Medicine,Critical,False,False,2026-03-22 07:31:00
+CF00655,56,Male,Emergency,High,True,False,2026-01-17 04:22:00
+CF00656,33,Female,Orthopedics,Low,True,False,2026-02-25 19:27:00
+CF00657,6,Female,Cardiology,Medium,True,False,2026-01-14 15:45:00
+CF00658,77,Male,Emergency,Medium,True,False,2026-03-28 02:08:00
+CF00659,7,Male,Emergency,Medium,False,False,2026-01-27 20:22:00
+CF00660,58,Male,Trauma,Medium,False,False,2026-02-07 07:47:00
+CF00661,48,Male,Trauma,Low,False,False,2026-02-19 15:48:00
+CF00662,26,Male,Emergency,Medium,False,False,2026-03-29 16:09:00
+CF00663,25,Male,Emergency,Medium,False,False,2026-01-29 09:25:00
+CF00664,28,Female,Emergency,Low,True,False,2026-03-19 11:41:00
+CF00665,45,Male,General Medicine,Medium,False,False,2026-01-05 15:54:00
+CF00666,53,Female,Emergency,Medium,False,False,2026-03-08 08:26:00
+CF00667,87,Male,Emergency,High,False,False,2026-01-19 14:18:00
+CF00668,12,Female,Emergency,Medium,False,False,2026-03-04 16:31:00
+CF00669,62,Male,Orthopedics,Medium,True,False,2026-02-02 21:14:00
+CF00670,79,Female,Trauma,Low,False,True,2026-03-10 13:51:00
+CF00671,70,Male,Emergency,Medium,False,False,2026-01-16 04:42:00
+CF00672,53,Male,Cardiology,Low,True,False,2026-03-23 09:28:00
+CF00673,38,Male,Emergency,High,False,False,2026-03-22 09:19:00
+CF00674,58,Female,Orthopedics,High,True,False,2026-01-10 16:56:00
+CF00675,7,Male,Cardiology,High,False,False,2026-02-07 11:33:00
+CF00676,54,Male,Emergency,High,False,False,2026-03-22 02:37:00
+CF00677,35,Male,General Medicine,Medium,False,False,2026-02-15 22:24:00
+CF00678,37,Male,Emergency,Low,False,False,2026-03-29 12:17:00
+CF00679,13,Male,Emergency,Low,True,False,2026-01-23 13:21:00
+CF00680,62,Female,Emergency,Medium,False,False,2026-02-07 12:42:00
+CF00681,48,Female,General Medicine,Low,False,False,2026-03-20 18:11:00
+CF00682,17,Male,General Medicine,Low,False,False,2026-02-12 04:23:00
+CF00683,74,Male,Emergency,Low,False,False,2026-03-01 18:31:00
+CF00684,52,Female,General Medicine,Medium,False,False,2026-02-05 23:40:00
+CF00685,75,Female,Trauma,High,True,False,2026-02-28 07:18:00
+CF00686,23,Female,Emergency,Medium,False,False,2026-01-28 08:32:00
+CF00687,33,Female,Emergency,Medium,False,False,2026-02-05 11:01:00
+CF00688,31,Male,Cardiology,Low,False,False,2026-03-01 03:16:00
+CF00689,30,Female,Emergency,Medium,False,False,2026-03-21 03:20:00
+CF00690,62,Male,Emergency,Low,True,False,2026-03-31 20:54:00
+CF00691,50,Female,Emergency,Medium,False,False,2026-03-31 13:21:00
+CF00692,43,Female,General Medicine,Low,True,False,2026-03-06 17:34:00
+CF00693,44,Male,General Medicine,Low,True,False,2026-01-19 18:09:00
+CF00694,33,Female,Emergency,Medium,False,False,2026-02-14 15:47:00
+CF00695,47,Male,General Medicine,Low,True,False,2026-01-14 03:10:00
+CF00696,49,Female,Emergency,High,False,False,2026-01-03 18:59:00
+CF00697,13,Male,Trauma,Low,True,False,2026-02-26 16:20:00
+CF00698,72,Female,Emergency,Medium,False,False,2026-03-20 12:36:00
+CF00699,74,Male,Emergency,High,False,False,2026-03-19 04:51:00
+CF00700,21,Female,General Medicine,Medium,False,False,2026-02-20 01:44:00
+CF00701,74,Female,Emergency,Medium,False,False,2026-03-11 18:01:00
+CF00702,46,Female,General Medicine,Medium,False,False,2026-02-11 13:11:00
+CF00703,2,Female,Emergency,Medium,False,False,2026-01-08 01:54:00
+CF00704,55,Female,Trauma,Low,False,False,2026-03-14 06:18:00
+CF00705,32,Female,Trauma,Medium,False,False,2026-02-25 10:08:00
+CF00706,52,Female,Emergency,Critical,True,False,2026-01-05 04:17:00
+CF00707,52,Female,Cardiology,Medium,False,False,2026-02-16 00:48:00
+CF00708,50,Female,General Medicine,Medium,False,False,2026-01-15 09:53:00
+CF00709,64,Female,Emergency,Medium,True,False,2026-03-31 12:03:00
+CF00710,42,Male,Cardiology,Low,False,False,2026-03-30 10:35:00
+CF00711,84,Female,Emergency,Medium,True,False,2026-01-26 04:14:00
+CF00712,16,Female,Emergency,Medium,True,False,2026-01-26 22:39:00
+CF00713,35,Female,Emergency,Low,False,False,2026-01-14 20:43:00
+CF00714,24,Female,Trauma,Low,False,False,2026-01-03 19:45:00
+CF00715,14,Female,Cardiology,Medium,False,False,2026-01-03 11:09:00
+CF00716,7,Female,Cardiology,Low,False,False,2026-01-05 20:44:00
+CF00717,78,Female,Trauma,Low,True,False,2026-03-27 03:33:00
+CF00718,77,Male,Emergency,Low,False,False,2026-02-01 17:01:00
+CF00719,6,Male,Emergency,Medium,False,False,2026-02-19 14:19:00
+CF00720,80,Other,Emergency,Low,False,False,2026-03-29 08:09:00
+CF00721,86,Female,Emergency,High,True,False,2026-02-18 07:42:00
+CF00722,12,Female,Emergency,Low,True,False,2026-03-04 03:42:00
+CF00723,26,Male,Emergency,High,True,False,2026-03-17 17:31:00
+CF00724,15,Female,Emergency,Low,False,False,2026-02-10 09:16:00
+CF00725,30,Male,Cardiology,High,False,False,2026-03-26 10:34:00
+CF00726,50,Female,Orthopedics,Low,False,False,2026-02-10 22:45:00
+CF00727,81,Male,Emergency,Medium,True,False,2026-01-02 03:18:00
+CF00728,71,Female,General Medicine,Critical,True,False,2026-02-08 20:43:00
+CF00729,48,Male,Emergency,Medium,False,False,2026-01-13 00:39:00
+CF00730,5,Female,Emergency,Low,True,False,2026-03-17 21:56:00
+CF00731,42,Other,Emergency,Medium,False,False,2026-01-27 07:11:00
+CF00732,8,Female,Emergency,High,False,False,2026-01-27 10:11:00
+CF00733,14,Male,Emergency,Medium,False,False,2026-03-24 14:40:00
+CF00734,51,Female,Emergency,Medium,False,False,2026-02-16 05:03:00
+CF00735,74,Female,Emergency,Medium,False,False,2026-01-08 23:58:00
+CF00736,3,Female,Emergency,High,True,False,2026-01-17 06:53:00
+CF00737,35,Male,Emergency,Low,True,False,2026-01-27 21:15:00
+CF00738,86,Female,Emergency,High,True,False,2026-02-13 17:32:00
+CF00739,7,Male,Emergency,Low,False,False,2026-02-25 19:32:00
+CF00740,36,Female,General Medicine,Medium,True,False,2026-03-07 18:38:00
+CF00741,8,Male,Trauma,Medium,False,False,2026-02-03 18:42:00
+CF00742,78,Other,General Medicine,Low,False,False,2026-03-24 00:51:00
+CF00743,19,Male,Emergency,Medium,False,False,2026-01-08 06:01:00
+CF00744,4,Female,Orthopedics,High,True,False,2026-03-06 04:20:00
+CF00745,64,Male,Emergency,Medium,True,False,2026-03-08 15:15:00
+CF00746,77,Male,Emergency,Medium,False,False,2026-03-18 12:31:00
+CF00747,68,Female,Emergency,Medium,True,False,2026-02-22 21:06:00
+CF00748,31,Female,Orthopedics,Medium,False,False,2026-02-10 23:51:00
+CF00749,83,Male,Emergency,Medium,False,False,2026-02-08 05:11:00
+CF00750,51,Male,Emergency,Medium,False,False,2026-02-01 16:06:00
+CF00751,50,Male,Emergency,High,False,False,2026-03-18 05:30:00
+CF00752,61,Female,General Medicine,Medium,False,False,2026-03-21 03:34:00
+CF00753,79,Female,Orthopedics,Low,True,False,2026-02-08 00:46:00
+CF00754,34,Male,Emergency,High,False,False,2026-02-24 10:25:00
+CF00755,1,Male,General Medicine,Low,False,False,2026-02-11 08:18:00
+CF00756,36,Female,Trauma,Critical,True,False,2026-03-10 14:28:00
+CF00757,63,Female,General Medicine,Medium,False,False,2026-03-24 12:53:00
+CF00758,12,Female,Emergency,Medium,True,False,2026-02-12 08:05:00
+CF00759,46,Female,Trauma,High,False,False,2026-02-26 18:54:00
+CF00760,2,Male,General Medicine,Medium,False,False,2026-01-15 02:44:00
+CF00761,25,Male,Emergency,High,False,False,2026-01-09 13:39:00
+CF00762,30,Female,Cardiology,Medium,True,False,2026-03-06 16:40:00
+CF00763,37,Male,Trauma,Critical,True,False,2026-01-01 23:55:00
+CF00764,39,Male,Cardiology,Medium,False,False,2026-02-01 14:58:00
+CF00765,60,Female,Emergency,Critical,False,False,2026-02-22 13:27:00
+CF00766,60,Female,Trauma,Medium,False,False,2026-02-10 02:40:00
+CF00767,70,Female,Emergency,Critical,False,False,2026-03-10 18:20:00
+CF00768,19,Female,General Medicine,Medium,False,False,2026-03-10 00:33:00
+CF00769,41,Female,Emergency,Low,False,False,2026-01-25 17:46:00
+CF00770,27,Other,Emergency,High,False,False,2026-01-25 23:59:00
+CF00771,46,Male,Emergency,High,False,False,2026-03-02 10:41:00
+CF00772,5,Male,Cardiology,Medium,True,False,2026-02-20 16:32:00
+CF00773,35,Male,Cardiology,Low,True,False,2026-01-12 22:16:00
+CF00774,54,Male,Trauma,Medium,False,False,2026-02-09 18:27:00
+CF00775,59,Male,General Medicine,Medium,False,False,2026-02-07 15:00:00
+CF00776,86,Male,Emergency,Low,True,False,2026-02-24 11:47:00
+CF00777,47,Female,Emergency,Medium,False,False,2026-03-11 18:13:00
+CF00778,37,Female,Emergency,Low,True,False,2026-01-09 17:37:00
+CF00779,78,Female,Emergency,Low,False,False,2026-02-08 12:37:00
+CF00780,66,Female,Emergency,High,True,False,2026-01-12 14:49:00
+CF00781,39,Female,General Medicine,High,False,False,2026-02-04 04:02:00
+CF00782,57,Male,Emergency,High,True,False,2026-03-21 14:37:00
+CF00783,3,Male,Emergency,Low,False,False,2026-01-02 16:45:00
+CF00784,16,Male,General Medicine,Critical,False,False,2026-01-29 08:35:00
+CF00785,87,Male,Emergency,Medium,False,False,2026-03-16 14:56:00
+CF00786,72,Female,Cardiology,Low,True,False,2026-03-14 21:26:00
+CF00787,62,Female,Cardiology,Medium,True,False,2026-01-10 09:29:00
+CF00788,4,Female,Orthopedics,Medium,False,False,2026-03-16 12:53:00
+CF00789,6,Male,Emergency,High,True,False,2026-03-07 17:06:00
+CF00790,83,Male,Emergency,Critical,False,False,2026-01-22 09:39:00
+CF00791,55,Female,Cardiology,Low,True,False,2026-01-08 11:59:00
+CF00792,37,Male,Emergency,Medium,True,False,2026-03-17 23:38:00
+CF00793,36,Female,General Medicine,Medium,False,False,2026-02-19 10:27:00
+CF00794,42,Other,Trauma,Low,False,False,2026-01-10 04:17:00
+CF00795,6,Female,Emergency,Low,False,False,2026-03-11 19:15:00
+CF00796,40,Male,Emergency,High,True,False,2026-01-25 17:19:00
+CF00797,22,Female,Orthopedics,Medium,False,False,2026-03-14 20:12:00
+CF00798,44,Female,Trauma,Medium,False,False,2026-03-16 02:39:00
+CF00799,36,Male,General Medicine,Medium,True,False,2026-01-07 10:40:00
+CF00800,8,Female,General Medicine,High,False,False,2026-02-15 18:44:00
+CF00801,53,Male,General Medicine,Medium,True,False,2026-01-11 15:46:00
+CF00802,27,Female,General Medicine,High,False,False,2026-02-14 17:02:00
+CF00803,16,Female,Emergency,Medium,False,False,2026-03-11 17:15:00
+CF00804,3,Male,Emergency,Critical,True,False,2026-03-29 13:13:00
+CF00805,78,Male,Emergency,High,False,False,2026-03-13 15:22:00
+CF00806,24,Male,Cardiology,Critical,False,False,2026-01-06 08:46:00
+CF00807,55,Female,Emergency,Low,True,False,2026-02-05 09:58:00
+CF00808,42,Female,Emergency,Medium,True,False,2026-02-07 00:47:00
+CF00809,82,Female,Trauma,Medium,True,False,2026-01-26 20:45:00
+CF00810,48,Male,Emergency,Medium,True,False,2026-03-03 14:53:00
+CF00811,62,Female,General Medicine,Low,True,False,2026-01-09 18:10:00
+CF00812,64,Male,General Medicine,Medium,True,False,2026-01-25 02:56:00
+CF00813,12,Male,Trauma,Low,False,False,2026-03-12 12:24:00
+CF00814,7,Male,Cardiology,High,False,False,2026-02-13 07:43:00
+CF00815,60,Male,Cardiology,High,True,False,2026-01-05 12:11:00
+CF00816,15,Female,Emergency,Medium,True,False,2026-03-13 12:33:00
+CF00817,88,Female,Trauma,High,False,False,2026-01-05 11:17:00
+CF00818,59,Female,Emergency,High,False,False,2026-01-07 10:33:00
+CF00819,66,Male,Cardiology,High,False,False,2026-02-04 13:19:00
+CF00820,3,Female,Emergency,Medium,False,False,2026-02-13 06:47:00
+CF00821,36,Female,Trauma,Medium,True,False,2026-02-17 11:30:00
+CF00822,64,Male,Emergency,Medium,False,False,2026-01-23 17:19:00
+CF00823,88,Male,General Medicine,Medium,True,False,2026-03-30 20:49:00
+CF00824,52,Female,Orthopedics,Medium,False,False,2026-01-06 12:46:00
+CF00825,36,Male,General Medicine,High,False,False,2026-01-18 09:05:00
+CF00826,76,Female,Trauma,Low,True,False,2026-03-15 08:59:00
+CF00827,22,Male,Emergency,Medium,True,False,2026-01-04 11:08:00
+CF00828,84,Female,Trauma,Medium,True,False,2026-02-13 18:38:00
+CF00829,21,Female,Emergency,Low,False,False,2026-03-14 21:31:00
+CF00830,11,Female,Emergency,Low,False,False,2026-03-01 17:58:00
+CF00831,46,Female,Emergency,Critical,True,False,2026-03-31 04:14:00
+CF00832,81,Male,Emergency,Medium,True,False,2026-01-13 23:10:00
+CF00833,73,Male,Emergency,Critical,False,False,2026-03-12 18:02:00
+CF00834,23,Female,Orthopedics,Low,True,False,2026-03-14 00:46:00
+CF00835,72,Female,General Medicine,Medium,False,False,2026-01-11 19:45:00
+CF00836,65,Male,General Medicine,High,True,False,2026-02-21 23:21:00
+CF00837,1,Female,Trauma,Medium,True,False,2026-03-14 02:26:00
+CF00838,15,Female,Trauma,Critical,False,False,2026-01-31 16:57:00
+CF00839,35,Male,General Medicine,Low,True,False,2026-02-28 05:15:00
+CF00840,88,Female,Cardiology,Medium,True,False,2026-04-01 03:09:00
+CF00841,39,Female,Emergency,Medium,True,False,2026-01-25 14:13:00
+CF00842,23,Female,General Medicine,High,True,False,2026-03-11 05:24:00
+CF00843,51,Male,Trauma,Critical,False,False,2026-02-04 06:58:00
+CF00844,12,Male,Trauma,Medium,False,False,2026-01-16 05:23:00
+CF00845,18,Male,Trauma,Low,False,False,2026-01-18 07:03:00
+CF00846,33,Other,Emergency,High,True,False,2026-01-11 17:26:00
+CF00847,7,Female,Emergency,Medium,True,False,2026-02-21 00:59:00
+CF00848,6,Male,Emergency,Critical,False,False,2026-02-14 16:14:00
+CF00849,31,Female,Trauma,Critical,False,False,2026-01-05 14:13:00
+CF00850,52,Male,Trauma,Medium,False,False,2026-02-16 14:48:00
+CF00851,25,Female,Emergency,Low,False,False,2026-02-16 08:24:00
+CF00852,22,Female,Emergency,Critical,True,False,2026-01-30 01:40:00
+CF00853,71,Female,Emergency,Medium,False,False,2026-01-10 15:33:00
+CF00854,3,Other,Emergency,High,False,False,2026-02-12 05:21:00
+CF00855,77,Male,Emergency,Medium,False,False,2026-03-23 01:49:00
+CF00856,45,Male,Trauma,Low,True,False,2026-03-16 17:36:00
+CF00857,33,Male,Emergency,High,True,False,2026-03-18 10:13:00
+CF00858,49,Male,Emergency,High,True,False,2026-02-25 10:15:00
+CF00859,72,Female,Emergency,Medium,True,False,2026-01-19 17:53:00
+CF00860,57,Male,Orthopedics,Low,False,False,2026-03-30 21:12:00
+CF00861,43,Male,Emergency,Medium,False,False,2026-01-16 16:39:00
+CF00862,12,Male,Emergency,Medium,False,False,2026-02-06 13:24:00
+CF00863,5,Female,Orthopedics,Medium,False,False,2026-01-16 07:59:00
+CF00864,58,Female,Emergency,High,False,False,2026-02-08 16:55:00
+CF00865,44,Female,Trauma,High,True,False,2026-02-27 04:24:00
+CF00866,2,Female,Emergency,Medium,True,False,2026-01-31 21:59:00
+CF00867,45,Female,Emergency,High,True,False,2026-01-31 07:03:00
+CF00868,33,Female,Emergency,Low,False,False,2026-03-16 10:29:00
+CF00869,76,Male,Trauma,High,True,False,2026-01-06 23:33:00
+CF00870,49,Female,Emergency,Critical,True,False,2026-02-02 09:36:00
+CF00871,4,Female,Emergency,Medium,True,False,2026-01-21 20:34:00
+CF00872,59,Other,Trauma,High,True,False,2026-01-30 01:56:00
+CF00873,2,Male,Trauma,Medium,True,False,2026-03-15 07:02:00
+CF00874,57,Male,Cardiology,Low,False,False,2026-03-01 13:41:00
+CF00875,26,Male,Emergency,High,False,False,2026-01-29 04:39:00
+CF00876,52,Male,Emergency,Low,False,False,2026-02-28 15:26:00
+CF00877,83,Male,General Medicine,High,True,False,2026-03-06 20:49:00
+CF00878,54,Male,Emergency,Low,False,False,2026-02-12 21:00:00
+CF00879,66,Male,General Medicine,Low,False,False,2026-03-08 23:39:00
+CF00880,32,Female,General Medicine,Low,False,False,2026-01-01 15:31:00
+CF00881,42,Female,Emergency,Medium,True,False,2026-02-02 07:39:00
+CF00882,3,Male,General Medicine,Medium,True,False,2026-02-19 20:16:00
+CF00883,86,Other,Emergency,High,False,False,2026-03-25 19:02:00
+CF00884,43,Male,Emergency,High,False,False,2026-01-03 11:56:00
+CF00885,77,Male,Trauma,Medium,False,False,2026-03-02 17:28:00
+CF00886,5,Male,Emergency,Medium,True,False,2026-03-20 16:02:00
+CF00887,18,Female,General Medicine,High,True,False,2026-03-23 08:31:00
+CF00888,63,Female,Trauma,Critical,False,False,2026-01-05 10:22:00
+CF00889,35,Male,Trauma,Critical,True,False,2026-02-12 19:05:00
+CF00890,29,Male,Emergency,Medium,False,False,2026-03-21 21:53:00
+CF00891,77,Male,Emergency,High,True,False,2026-01-06 02:47:00
+CF00892,60,Male,General Medicine,Critical,False,False,2026-02-27 09:10:00
+CF00893,89,Male,Emergency,Low,True,False,2026-01-14 01:06:00
+CF00894,37,Female,Orthopedics,Low,False,False,2026-02-20 05:37:00
+CF00895,74,Male,Cardiology,Medium,True,False,2026-02-17 05:06:00
+CF00896,10,Male,Cardiology,Medium,False,False,2026-03-30 22:34:00
+CF00897,81,Male,General Medicine,High,False,False,2026-03-21 00:44:00
+CF00898,17,Male,General Medicine,Medium,True,False,2026-03-07 16:36:00
+CF00899,86,Male,Cardiology,Low,False,False,2026-03-26 19:42:00
+CF00900,64,Male,Trauma,Critical,True,False,2026-01-01 13:34:00
+CF00901,64,Male,Emergency,Medium,True,False,2026-03-30 08:41:00
+CF00902,38,Female,General Medicine,Low,False,False,2026-02-17 20:58:00
+CF00903,39,Other,Orthopedics,Medium,True,False,2026-02-24 20:52:00
+CF00904,58,Other,Orthopedics,Low,False,False,2026-02-16 09:16:00
+CF00905,87,Male,Orthopedics,Critical,False,False,2026-02-17 14:14:00
+CF00906,67,Male,Emergency,Medium,True,False,2026-02-15 02:08:00
+CF00907,23,Male,Cardiology,Medium,True,False,2026-01-22 21:16:00
+CF00908,84,Female,Emergency,Medium,False,False,2026-02-28 03:21:00
+CF00909,71,Female,Emergency,Low,True,False,2026-01-03 16:26:00
+CF00910,39,Male,Emergency,Low,False,False,2026-01-18 23:37:00
+CF00911,55,Female,Emergency,Medium,True,False,2026-02-26 03:21:00
+CF00912,1,Female,Trauma,Medium,False,False,2026-02-09 23:10:00
+CF00913,53,Male,Emergency,Medium,False,False,2026-03-13 23:03:00
+CF00914,83,Male,Emergency,Low,True,False,2026-02-08 12:53:00
+CF00915,23,Female,Emergency,Medium,False,False,2026-01-24 21:15:00
+CF00916,23,Female,General Medicine,Critical,False,False,2026-01-09 16:04:00
+CF00917,64,Male,Trauma,Medium,True,False,2026-01-24 08:37:00
+CF00918,62,Female,Trauma,High,True,False,2026-02-18 23:41:00
+CF00919,22,Male,Emergency,Medium,True,False,2026-02-28 01:32:00
+CF00920,68,Male,Orthopedics,Medium,True,False,2026-03-04 01:57:00
+CF00921,23,Male,Trauma,Medium,False,False,2026-03-03 14:41:00
+CF00922,84,Female,Emergency,Critical,False,False,2026-01-29 21:55:00
+CF00923,88,Male,General Medicine,Low,False,False,2026-01-24 06:50:00
+CF00924,28,Male,Emergency,Medium,False,False,2026-01-30 18:45:00
+CF00925,26,Female,Trauma,High,False,False,2026-03-24 07:15:00
+CF00926,29,Female,General Medicine,High,False,False,2026-01-19 01:14:00
+CF00927,68,Female,Emergency,Low,False,False,2026-03-19 13:28:00
+CF00928,77,Male,General Medicine,Low,False,False,2026-01-08 20:21:00
+CF00929,3,Female,Emergency,High,True,False,2026-03-13 14:59:00
+CF00930,8,Male,Emergency,Low,True,False,2026-02-18 12:40:00
+CF00931,87,Female,General Medicine,Medium,False,False,2026-02-15 08:54:00
+CF00932,86,Male,Orthopedics,Medium,True,False,2026-03-16 22:22:00
+CF00933,89,Male,Orthopedics,Low,False,False,2026-03-03 01:27:00
+CF00934,7,Female,Emergency,Low,True,False,2026-03-18 10:22:00
+CF00935,7,Female,Emergency,Medium,True,False,2026-03-11 22:32:00
+CF00936,66,Male,Trauma,Medium,True,False,2026-02-02 23:26:00
+CF00937,82,Male,Cardiology,Medium,True,False,2026-02-24 11:52:00
+CF00938,38,Male,Emergency,Low,False,False,2026-01-10 18:22:00
+CF00939,46,Male,Emergency,Low,False,False,2026-02-14 12:24:00
+CF00940,62,Male,Orthopedics,Critical,False,False,2026-03-23 06:59:00
+CF00941,88,Male,Orthopedics,Low,False,False,2026-02-13 06:45:00
+CF00942,25,Male,Emergency,Low,True,False,2026-01-09 18:54:00
+CF00943,51,Male,Emergency,Medium,False,False,2026-02-07 09:39:00
+CF00944,14,Male,General Medicine,High,True,False,2026-02-23 05:52:00
+CF00945,64,Female,Emergency,Medium,True,False,2026-01-26 06:08:00
+CF00946,65,Male,Trauma,Critical,False,False,2026-02-05 03:57:00
+CF00947,1,Male,Emergency,Medium,True,False,2026-01-20 14:05:00
+CF00948,80,Male,General Medicine,Low,False,False,2026-02-11 12:48:00
+CF00949,68,Male,Orthopedics,High,False,False,2026-02-05 20:35:00
+CF00950,9,Female,General Medicine,Medium,False,False,2026-02-28 12:02:00
+CF00951,12,Other,Trauma,Medium,True,False,2026-02-03 15:59:00
+CF00952,73,Other,Emergency,Critical,False,False,2026-01-23 03:51:00
+CF00953,74,Male,Emergency,Low,True,False,2026-01-14 06:15:00
+CF00954,40,Male,Trauma,Low,False,False,2026-01-05 08:20:00
+CF00955,68,Male,Emergency,Medium,True,False,2026-03-28 01:00:00
+CF00956,59,Male,Emergency,High,False,False,2026-01-24 17:58:00
+CF00957,66,Female,General Medicine,Medium,True,False,2026-03-26 18:28:00
+CF00958,20,Female,Orthopedics,Medium,False,False,2026-02-25 02:58:00
+CF00959,50,Female,Emergency,High,True,False,2026-01-28 05:21:00
+CF00960,58,Female,Cardiology,Low,True,False,2026-02-22 20:30:00
+CF00961,80,Male,Cardiology,Critical,True,False,2026-03-10 14:46:00
+CF00962,18,Female,General Medicine,Medium,False,False,2026-01-22 06:13:00
+CF00963,87,Male,Trauma,Medium,True,False,2026-03-29 09:20:00
+CF00964,26,Female,Trauma,High,True,False,2026-02-05 14:32:00
+CF00965,38,Male,General Medicine,High,False,False,2026-02-26 22:03:00
+CF00966,66,Female,Emergency,Medium,True,False,2026-02-26 13:26:00
+CF00967,28,Female,Emergency,Medium,False,False,2026-03-06 03:49:00
+CF00968,75,Female,Cardiology,Low,False,False,2026-02-24 23:24:00
+CF00969,71,Female,Emergency,High,True,False,2026-03-14 20:54:00
+CF00970,14,Female,Trauma,High,False,False,2026-01-22 02:39:00
+CF00971,61,Female,Orthopedics,Low,False,False,2026-01-03 20:25:00
+CF00972,72,Female,Emergency,Low,True,False,2026-01-07 21:55:00
+CF00973,19,Male,General Medicine,Low,False,False,2026-01-05 07:33:00
+CF00974,84,Male,Emergency,Critical,False,False,2026-03-02 06:22:00
+CF00975,88,Male,Emergency,Medium,False,False,2026-03-11 19:25:00
+CF00976,6,Female,Emergency,Medium,True,False,2026-02-23 17:19:00
+CF00977,23,Male,Emergency,Critical,True,False,2026-02-11 00:24:00
+CF00978,85,Female,Emergency,High,True,False,2026-01-01 13:12:00
+CF00979,63,Male,Orthopedics,Medium,False,False,2026-01-30 10:37:00
+CF00980,46,Male,Emergency,High,False,False,2026-02-19 14:03:00
+CF00981,85,Male,General Medicine,Low,False,False,2026-03-11 17:57:00
+CF00982,87,Male,General Medicine,Low,False,False,2026-01-08 13:24:00
+CF00983,15,Male,Emergency,Medium,False,False,2026-01-28 19:19:00
+CF00984,2,Male,Cardiology,High,True,False,2026-01-05 21:37:00
+CF00985,11,Male,Emergency,Low,False,False,2026-02-08 22:05:00
+CF00986,78,Male,Emergency,Medium,False,False,2026-01-12 02:24:00
+CF00987,58,Male,Cardiology,High,False,False,2026-03-02 05:05:00
+CF00988,76,Female,Orthopedics,Medium,False,False,2026-01-29 11:17:00
+CF00989,40,Female,Emergency,High,False,False,2026-03-07 04:10:00
+CF00990,39,Female,Cardiology,Medium,False,False,2026-02-15 16:11:00
+CF00991,80,Male,Trauma,Medium,False,False,2026-01-28 07:20:00
+CF00992,84,Female,Emergency,Low,False,False,2026-03-19 10:44:00
+CF00993,50,Male,Orthopedics,Low,False,True,2026-01-20 04:42:00
+CF00994,59,Male,Emergency,High,False,False,2026-01-18 03:05:00
+CF00995,1,Female,Emergency,High,False,False,2026-01-30 06:25:00
+CF00996,85,Female,Orthopedics,Low,True,False,2026-02-15 12:33:00
+CF00997,64,Male,General Medicine,Medium,False,False,2026-02-19 23:05:00
+CF00998,46,Male,Emergency,Medium,False,False,2026-03-13 15:55:00
+CF00999,47,Female,Cardiology,Medium,True,False,2026-03-13 18:08:00
+CF01000,70,Male,Emergency,Critical,False,False,2026-01-31 23:38:00
+CF01001,1,Male,Emergency,Medium,False,False,2026-03-22 05:14:00
+CF01002,70,Female,General Medicine,Medium,True,False,2026-01-27 06:34:00
+CF01003,30,Male,Orthopedics,Medium,True,False,2026-01-27 06:10:00
+CF01004,50,Female,Emergency,Medium,False,False,2026-02-02 20:02:00
+CF01005,23,Male,General Medicine,Medium,True,False,2026-03-04 20:53:00
+CF01006,21,Female,Emergency,Critical,True,False,2026-01-07 16:24:00
+CF01007,77,Male,Trauma,High,False,False,2026-02-01 02:30:00
+CF01008,72,Male,Emergency,High,False,False,2026-02-12 18:51:00
+CF01009,40,Male,Emergency,Low,True,False,2026-01-23 06:40:00
+CF01010,72,Male,Cardiology,Critical,False,False,2026-01-19 18:52:00
+CF01011,26,Female,Emergency,Medium,False,True,2026-02-26 06:56:00
+CF01012,44,Female,General Medicine,Medium,False,False,2026-01-13 22:44:00
+CF01013,7,Male,General Medicine,Medium,False,False,2026-03-20 04:07:00
+CF01014,33,Male,Emergency,Medium,False,False,2026-03-31 05:51:00
+CF01015,66,Male,Emergency,Low,False,False,2026-02-04 20:43:00
+CF01016,8,Male,General Medicine,Low,True,False,2026-03-26 13:58:00
+CF01017,38,Male,Trauma,Medium,True,False,2026-03-25 12:58:00
+CF01018,67,Male,Emergency,Low,False,False,2026-02-05 15:32:00
+CF01019,35,Male,Emergency,Low,False,False,2026-02-24 14:29:00
+CF01020,20,Female,Emergency,Low,False,False,2026-02-01 06:39:00
+CF01021,90,Male,General Medicine,Low,False,False,2026-01-27 18:31:00
+CF01022,4,Other,Emergency,Low,False,False,2026-02-01 19:07:00
+CF01023,63,Female,General Medicine,Medium,False,False,2026-03-08 12:30:00
+CF01024,15,Male,Emergency,Medium,True,False,2026-01-04 04:58:00
+CF01025,14,Female,Emergency,Low,True,False,2026-01-21 10:40:00
+CF01026,13,Female,Emergency,Low,True,False,2026-02-08 03:15:00
+CF01027,65,Female,Emergency,Low,True,False,2026-01-09 12:40:00
+CF01028,76,Male,Orthopedics,Medium,False,False,2026-03-07 20:22:00
+CF01029,21,Male,Emergency,Medium,False,False,2026-03-10 05:07:00
+CF01030,71,Female,Emergency,Medium,False,False,2026-02-27 21:23:00
+CF01031,78,Male,General Medicine,Medium,False,False,2026-01-19 22:59:00
+CF01032,19,Female,Emergency,Medium,False,False,2026-01-25 15:10:00
+CF01033,36,Female,Orthopedics,High,False,False,2026-03-27 23:33:00
+CF01034,45,Male,Emergency,Low,False,False,2026-03-10 01:19:00
+CF01035,15,Male,General Medicine,Medium,True,False,2026-01-22 12:00:00
+CF01036,73,Male,General Medicine,Medium,False,False,2026-03-22 00:24:00
+CF01037,13,Female,Emergency,Low,True,False,2026-03-29 20:10:00
+CF01038,3,Male,Cardiology,High,False,False,2026-03-13 07:12:00
+CF01039,29,Male,General Medicine,High,False,False,2026-01-09 07:35:00
+CF01040,90,Male,Orthopedics,High,True,False,2026-03-21 12:13:00
+CF01041,9,Male,Emergency,Medium,False,False,2026-03-26 18:11:00
+CF01042,36,Female,General Medicine,Medium,False,False,2026-01-13 16:46:00
+CF01043,88,Female,Emergency,Low,False,False,2026-02-24 17:04:00
+CF01044,87,Female,Emergency,Low,False,False,2026-01-24 02:56:00
+CF01045,9,Female,General Medicine,Medium,False,False,2026-01-26 22:48:00
+CF01046,74,Male,Emergency,Medium,False,False,2026-01-28 17:15:00
+CF01047,3,Male,Emergency,Low,False,False,2026-02-18 06:31:00
+CF01048,64,Female,Emergency,Medium,True,False,2026-03-10 00:17:00
+CF01049,17,Male,Emergency,High,False,False,2026-03-24 09:36:00
+CF01050,64,Female,General Medicine,Medium,False,False,2026-01-22 10:47:00
+CF01051,20,Male,Emergency,High,False,True,2026-01-07 22:52:00
+CF01052,43,Male,Emergency,Critical,True,False,2026-03-20 21:18:00
+CF01053,57,Male,Emergency,Low,False,False,2026-03-15 04:35:00
+CF01054,7,Male,General Medicine,High,True,False,2026-03-23 17:51:00
+CF01055,1,Female,Emergency,Critical,True,False,2026-02-15 10:28:00
+CF01056,56,Female,General Medicine,Medium,False,False,2026-01-15 00:58:00
+CF01057,65,Male,Emergency,High,False,False,2026-03-24 11:55:00
+CF01058,3,Male,General Medicine,High,False,False,2026-01-30 13:06:00
+CF01059,88,Female,Emergency,Critical,True,False,2026-03-09 16:56:00
+CF01060,33,Female,Cardiology,Critical,False,False,2026-03-13 10:56:00
+CF01061,4,Female,General Medicine,Low,True,False,2026-02-14 08:09:00
+CF01062,41,Male,Emergency,High,False,False,2026-01-21 07:52:00
+CF01063,79,Female,Orthopedics,Critical,False,False,2026-03-15 18:58:00
+CF01064,75,Female,Emergency,Low,False,False,2026-01-09 16:24:00
+CF01065,50,Male,Emergency,Medium,True,False,2026-03-23 09:23:00
+CF01066,28,Female,Emergency,Medium,False,False,2026-02-12 22:19:00
+CF01067,47,Male,General Medicine,High,False,True,2026-03-13 03:15:00
+CF01068,50,Female,Emergency,High,False,False,2026-03-24 20:04:00
+CF01069,32,Female,General Medicine,Medium,False,False,2026-02-21 07:41:00
+CF01070,68,Female,Emergency,Medium,True,False,2026-01-04 01:53:00
+CF01071,24,Male,Emergency,Medium,False,False,2026-02-04 21:20:00
+CF01072,75,Female,Trauma,Medium,False,False,2026-02-24 07:53:00
+CF01073,65,Male,Emergency,High,False,False,2026-03-24 04:14:00
+CF01074,67,Female,Cardiology,Medium,True,False,2026-02-15 02:57:00
+CF01075,55,Male,Emergency,High,False,False,2026-03-04 20:06:00
+CF01076,19,Female,Emergency,High,False,True,2026-02-28 19:03:00
+CF01077,73,Female,Emergency,Low,False,False,2026-02-26 14:32:00
+CF01078,65,Female,Emergency,Medium,True,False,2026-01-12 15:56:00
+CF01079,66,Male,Emergency,Medium,True,False,2026-02-12 15:14:00
+CF01080,62,Male,Emergency,Medium,False,False,2026-03-23 21:26:00
+CF01081,34,Female,Orthopedics,Low,False,False,2026-03-03 06:31:00
+CF01082,4,Female,Emergency,Low,False,False,2026-01-12 19:49:00
+CF01083,35,Male,Emergency,Medium,False,False,2026-03-10 05:07:00
+CF01084,51,Female,Emergency,Medium,True,False,2026-02-19 08:14:00
+CF01085,70,Male,Emergency,Medium,False,False,2026-03-18 05:25:00
+CF01086,10,Female,Orthopedics,High,False,False,2026-03-07 10:09:00
+CF01087,7,Male,Cardiology,Low,False,False,2026-01-31 08:37:00
+CF01088,6,Male,Orthopedics,Medium,True,False,2026-01-23 08:12:00
+CF01089,60,Female,Emergency,Medium,True,False,2026-03-28 19:48:00
+CF01090,33,Male,Emergency,High,True,False,2026-02-22 18:39:00
+CF01091,33,Male,Emergency,Medium,False,False,2026-02-18 20:48:00
+CF01092,14,Male,Cardiology,Medium,False,False,2026-01-23 20:41:00
+CF01093,10,Male,Cardiology,Low,True,False,2026-02-26 06:06:00
+CF01094,90,Female,Emergency,Low,True,False,2026-02-24 19:02:00
+CF01095,85,Male,Emergency,High,True,False,2026-02-06 19:19:00
+CF01096,59,Female,Emergency,High,True,False,2026-03-18 05:48:00
+CF01097,51,Female,Emergency,Medium,False,False,2026-03-25 20:36:00
+CF01098,85,Male,General Medicine,Medium,True,False,2026-01-12 17:32:00
+CF01099,88,Male,Emergency,Medium,True,False,2026-02-12 14:46:00
+CF01100,35,Male,Cardiology,Medium,False,False,2026-01-01 10:54:00
+CF01101,77,Male,General Medicine,Low,False,False,2026-01-01 17:07:00
+CF01102,3,Male,Emergency,Medium,False,False,2026-01-16 13:54:00
+CF01103,52,Female,Emergency,Medium,False,False,2026-02-24 20:29:00
+CF01104,64,Male,General Medicine,High,False,False,2026-01-10 05:01:00
+CF01105,78,Other,Emergency,Low,True,False,2026-01-20 21:24:00
+CF01106,84,Female,Cardiology,Medium,False,False,2026-03-30 07:20:00
+CF01107,23,Female,General Medicine,High,False,False,2026-02-20 02:09:00
+CF01108,60,Male,Emergency,Medium,False,False,2026-03-10 10:05:00
+CF01109,81,Female,Emergency,Medium,False,False,2026-02-28 11:21:00
+CF01110,67,Male,Emergency,Critical,True,False,2026-02-01 00:21:00
+CF01111,50,Female,Cardiology,Medium,False,False,2026-01-13 18:19:00
+CF01112,70,Male,General Medicine,Medium,False,False,2026-01-17 07:38:00
+CF01113,36,Male,Trauma,Medium,False,False,2026-01-28 05:24:00
+CF01114,23,Male,Trauma,Medium,True,False,2026-02-23 14:42:00
+CF01115,35,Female,Emergency,Medium,False,False,2026-03-21 06:50:00
+CF01116,51,Female,Emergency,Medium,True,False,2026-03-13 11:21:00
+CF01117,81,Female,Orthopedics,High,True,False,2026-03-10 06:12:00
+CF01118,23,Male,Orthopedics,Medium,False,False,2026-02-08 21:15:00
+CF01119,61,Female,Emergency,Low,False,False,2026-01-08 17:22:00
+CF01120,57,Female,General Medicine,Medium,False,False,2026-02-11 22:09:00
+CF01121,22,Female,Emergency,High,False,False,2026-02-09 14:19:00
+CF01122,13,Male,Emergency,Medium,False,False,2026-03-26 00:55:00
+CF01123,48,Female,General Medicine,Medium,False,False,2026-03-15 18:15:00
+CF01124,78,Female,Emergency,High,False,False,2026-01-26 06:58:00
+CF01125,4,Male,Trauma,Medium,True,False,2026-01-26 02:04:00
+CF01126,10,Female,Emergency,Low,False,False,2026-02-13 21:06:00
+CF01127,49,Male,Trauma,Medium,True,False,2026-01-06 11:50:00
+CF01128,11,Male,General Medicine,Medium,True,False,2026-01-09 08:30:00
+CF01129,55,Male,Emergency,Low,False,False,2026-01-07 22:56:00
+CF01130,48,Male,General Medicine,Low,True,False,2026-01-10 17:42:00
+CF01131,21,Female,Trauma,High,False,False,2026-01-17 15:44:00
+CF01132,17,Male,Trauma,Medium,False,False,2026-02-28 14:04:00
+CF01133,39,Female,Emergency,Medium,True,False,2026-01-22 10:20:00
+CF01134,66,Male,General Medicine,High,False,False,2026-01-02 15:38:00
+CF01135,89,Male,Emergency,Low,False,True,2026-03-13 08:17:00
+CF01136,58,Female,Emergency,High,False,False,2026-02-25 06:33:00
+CF01137,39,Male,Emergency,Low,False,False,2026-01-28 10:07:00
+CF01138,40,Female,Orthopedics,Low,True,False,2026-03-16 02:41:00
+CF01139,76,Female,Orthopedics,High,False,False,2026-03-14 21:48:00
+CF01140,46,Male,Emergency,Medium,False,False,2026-03-25 20:15:00
+CF01141,52,Female,Emergency,Critical,True,False,2026-03-23 20:00:00
+CF01142,1,Female,General Medicine,Low,True,False,2026-01-15 00:50:00
+CF01143,39,Female,Emergency,Low,True,False,2026-01-20 20:38:00
+CF01144,39,Male,Trauma,High,False,False,2026-03-10 07:09:00
+CF01145,1,Male,Emergency,Medium,False,True,2026-01-06 18:53:00
+CF01146,44,Female,Cardiology,Medium,True,False,2026-01-26 01:46:00
+CF01147,17,Other,Emergency,Low,False,True,2026-02-04 05:47:00
+CF01148,25,Male,Trauma,Medium,False,False,2026-03-01 16:32:00
+CF01149,81,Male,Orthopedics,Low,False,False,2026-03-14 20:58:00
+CF01150,89,Male,Emergency,Low,False,False,2026-03-09 19:03:00
+CF01151,41,Male,General Medicine,Medium,False,False,2026-03-20 16:50:00
+CF01152,33,Male,Emergency,Low,False,False,2026-02-19 08:20:00
+CF01153,47,Male,Trauma,Low,False,False,2026-02-24 04:57:00
+CF01154,56,Female,Emergency,Low,True,False,2026-01-22 15:29:00
+CF01155,6,Female,Trauma,Low,False,False,2026-01-24 15:46:00
+CF01156,19,Female,Emergency,High,True,False,2026-01-06 10:21:00
+CF01157,16,Female,Emergency,Low,False,False,2026-03-26 15:10:00
+CF01158,17,Female,Emergency,High,False,False,2026-02-05 01:27:00
+CF01159,64,Male,Emergency,High,True,False,2026-02-07 18:30:00
+CF01160,74,Female,Emergency,Medium,False,False,2026-01-20 10:12:00
+CF01161,4,Female,Emergency,Medium,True,False,2026-02-12 20:54:00
+CF01162,32,Male,Trauma,Low,True,False,2026-02-17 00:00:00
+CF01163,1,Male,Orthopedics,Low,True,False,2026-03-25 14:29:00
+CF01164,32,Male,Emergency,High,True,False,2026-02-02 12:35:00
+CF01165,32,Female,General Medicine,High,False,False,2026-01-03 05:49:00
+CF01166,1,Male,Cardiology,Medium,False,False,2026-01-02 06:51:00
+CF01167,21,Female,Trauma,High,False,False,2026-01-03 10:14:00
+CF01168,76,Female,Cardiology,Medium,True,False,2026-03-19 15:25:00
+CF01169,38,Female,Emergency,High,False,False,2026-03-06 22:39:00
+CF01170,66,Female,Trauma,High,True,False,2026-03-02 03:20:00
+CF01171,79,Female,Emergency,Medium,False,False,2026-02-26 00:21:00
+CF01172,28,Female,Cardiology,Low,True,False,2026-02-21 21:46:00
+CF01173,90,Male,General Medicine,Medium,False,False,2026-01-20 08:35:00
+CF01174,22,Female,Orthopedics,Low,True,False,2026-02-11 16:51:00
+CF01175,17,Male,Emergency,High,False,False,2026-03-01 23:05:00
+CF01176,32,Female,Emergency,Low,True,False,2026-03-17 23:23:00
+CF01177,87,Male,Emergency,High,True,False,2026-02-06 01:41:00
+CF01178,35,Female,Emergency,Medium,True,False,2026-02-02 08:50:00
+CF01179,19,Female,Emergency,Medium,True,False,2026-01-21 13:54:00
+CF01180,8,Female,Orthopedics,Low,True,False,2026-02-16 03:50:00
+CF01181,66,Female,Emergency,Medium,False,False,2026-01-01 08:42:00
+CF01182,76,Male,General Medicine,Medium,False,False,2026-03-21 11:14:00
+CF01183,81,Male,Trauma,Medium,True,False,2026-01-19 18:59:00
+CF01184,63,Male,Orthopedics,Medium,False,True,2026-02-12 17:58:00
+CF01185,74,Male,Emergency,Low,True,False,2026-02-07 11:18:00
+CF01186,44,Male,Trauma,Low,False,False,2026-01-25 19:42:00
+CF01187,58,Male,Cardiology,Medium,True,False,2026-02-17 13:29:00
+CF01188,65,Male,Emergency,Medium,True,False,2026-01-07 05:53:00
+CF01189,81,Female,General Medicine,Medium,True,False,2026-03-16 23:39:00
+CF01190,60,Female,Emergency,Critical,True,False,2026-02-10 21:44:00
+CF01191,74,Female,Orthopedics,Medium,False,False,2026-02-28 23:44:00
+CF01192,30,Male,Emergency,Low,False,False,2026-01-27 08:07:00
+CF01193,48,Female,Emergency,Low,True,False,2026-01-21 12:53:00
+CF01194,35,Male,Emergency,Low,False,False,2026-01-25 01:49:00
+CF01195,63,Female,Cardiology,Low,True,False,2026-02-02 22:19:00
+CF01196,1,Female,General Medicine,Medium,False,False,2026-01-27 15:04:00
+CF01197,9,Male,Emergency,High,False,False,2026-01-31 22:40:00
+CF01198,49,Female,Orthopedics,Critical,False,False,2026-01-14 18:39:00
+CF01199,75,Female,General Medicine,Low,True,False,2026-03-22 04:45:00
+CF01200,79,Male,Emergency,Low,True,False,2026-03-09 12:10:00
+CF01201,49,Male,Emergency,Low,False,True,2026-01-21 01:42:00
+CF01202,39,Male,General Medicine,High,False,False,2026-03-03 18:08:00
+CF01203,52,Male,Emergency,Low,True,False,2026-03-10 11:59:00
+CF01204,17,Male,Emergency,Medium,True,False,2026-03-05 16:42:00
+CF01205,60,Male,General Medicine,High,False,False,2026-02-09 15:02:00
+CF01206,82,Female,General Medicine,Medium,True,False,2026-03-10 23:15:00
+CF01207,37,Female,Emergency,Low,True,False,2026-01-19 15:29:00
+CF01208,73,Male,Orthopedics,High,False,False,2026-01-04 17:02:00
+CF01209,80,Female,Orthopedics,Medium,False,False,2026-01-11 18:20:00
+CF01210,72,Female,General Medicine,Medium,True,False,2026-02-08 12:36:00
+CF01211,32,Female,General Medicine,Low,False,False,2026-03-17 03:38:00
+CF01212,71,Male,Emergency,Low,False,False,2026-02-09 18:29:00
+CF01213,28,Male,Emergency,High,True,False,2026-02-09 00:08:00
+CF01214,79,Female,Trauma,Medium,False,False,2026-03-31 04:43:00
+CF01215,12,Male,Emergency,Low,False,False,2026-02-18 15:28:00
+CF01216,33,Male,Emergency,Critical,False,False,2026-02-01 12:11:00
+CF01217,20,Female,Emergency,Low,True,False,2026-01-18 05:32:00
+CF01218,55,Female,Trauma,Critical,False,False,2026-01-02 00:26:00
+CF01219,88,Female,Emergency,Critical,False,False,2026-01-04 00:02:00
+CF01220,41,Male,General Medicine,Medium,False,False,2026-01-25 02:16:00
+CF01221,61,Male,Trauma,High,True,False,2026-03-12 12:16:00
+CF01222,33,Male,Emergency,Critical,True,False,2026-02-09 11:45:00
+CF01223,70,Male,Trauma,Medium,True,False,2026-02-11 13:14:00
+CF01224,38,Female,Trauma,Medium,True,False,2026-03-11 01:00:00
+CF01225,52,Male,Emergency,Medium,True,False,2026-02-08 04:51:00
+CF01226,85,Male,Emergency,Medium,True,False,2026-01-15 02:06:00
+CF01227,25,Male,Emergency,Low,False,False,2026-02-24 22:42:00
+CF01228,86,Male,Emergency,Low,False,False,2026-01-02 22:32:00
+CF01229,11,Male,Trauma,Medium,True,False,2026-03-16 10:11:00
+CF01230,48,Female,Orthopedics,High,False,False,2026-03-31 23:55:00
+CF01231,56,Male,Cardiology,Low,True,False,2026-01-21 21:17:00
+CF01232,30,Female,General Medicine,Medium,False,False,2026-03-13 10:34:00
+CF01233,88,Male,General Medicine,Low,True,False,2026-02-15 14:55:00
+CF01234,62,Female,General Medicine,Medium,False,False,2026-01-24 07:13:00
+CF01235,40,Female,Orthopedics,High,True,False,2026-02-06 03:49:00
+CF01236,13,Female,General Medicine,Critical,True,False,2026-01-12 21:52:00
+CF01237,82,Male,General Medicine,Medium,False,False,2026-01-17 15:57:00
+CF01238,71,Male,Trauma,High,True,False,2026-02-25 19:45:00
+CF01239,71,Female,Orthopedics,Medium,True,False,2026-03-05 05:52:00
+CF01240,26,Male,Emergency,Low,False,False,2026-03-23 21:58:00
+CF01241,10,Male,Emergency,Medium,True,False,2026-02-06 03:12:00
+CF01242,20,Male,Orthopedics,Critical,False,False,2026-03-12 03:10:00
+CF01243,76,Male,Trauma,Medium,False,False,2026-01-19 00:56:00
+CF01244,15,Male,Emergency,Medium,False,False,2026-03-11 13:28:00
+CF01245,73,Female,Emergency,Medium,True,False,2026-03-07 08:14:00
+CF01246,47,Female,Cardiology,Medium,False,False,2026-02-16 15:20:00
+CF01247,8,Male,Trauma,Medium,False,False,2026-01-24 06:02:00
+CF01248,58,Male,Cardiology,Low,False,False,2026-01-13 20:01:00
+CF01249,21,Female,Cardiology,Low,False,False,2026-01-31 01:13:00
+CF01250,61,Female,Orthopedics,Critical,False,False,2026-01-12 00:15:00
+CF01251,13,Male,Emergency,Medium,False,False,2026-01-02 01:56:00
+CF01252,54,Male,General Medicine,Medium,True,False,2026-03-24 00:33:00
+CF01253,15,Female,General Medicine,Critical,False,False,2026-03-02 19:32:00
+CF01254,82,Male,General Medicine,High,False,False,2026-01-29 04:16:00
+CF01255,74,Female,General Medicine,Low,False,False,2026-02-17 13:41:00
+CF01256,78,Male,Emergency,Medium,True,False,2026-03-05 03:23:00
+CF01257,21,Male,Emergency,Medium,True,False,2026-03-01 02:30:00
+CF01258,7,Male,Emergency,Medium,False,False,2026-03-10 11:12:00
+CF01259,75,Male,General Medicine,High,False,False,2026-03-04 17:28:00
+CF01260,67,Male,Emergency,Low,False,False,2026-03-21 01:36:00
+CF01261,80,Male,Emergency,High,True,False,2026-01-31 22:15:00
+CF01262,69,Male,Cardiology,Medium,False,False,2026-02-19 20:40:00
+CF01263,27,Male,Emergency,High,False,False,2026-02-08 00:50:00
+CF01264,40,Other,Trauma,High,False,False,2026-03-31 03:07:00
+CF01265,64,Other,Emergency,Medium,True,False,2026-03-20 11:35:00
+CF01266,84,Female,General Medicine,High,False,False,2026-03-13 09:39:00
+CF01267,15,Female,General Medicine,Medium,True,False,2026-03-18 00:52:00
+CF01268,61,Male,General Medicine,Low,True,False,2026-03-26 00:22:00
+CF01269,23,Female,General Medicine,High,True,False,2026-02-10 12:16:00
+CF01270,7,Male,General Medicine,Medium,False,False,2026-01-31 12:12:00
+CF01271,23,Other,General Medicine,High,True,False,2026-01-07 14:22:00
+CF01272,87,Male,Trauma,Low,True,False,2026-02-17 09:50:00
+CF01273,10,Female,Emergency,Medium,False,False,2026-01-03 11:01:00
+CF01274,57,Female,Emergency,Medium,False,False,2026-03-26 13:03:00
+CF01275,66,Female,Orthopedics,Medium,True,False,2026-01-17 04:46:00
+CF01276,56,Male,Emergency,Medium,False,False,2026-03-04 11:41:00
+CF01277,30,Female,General Medicine,Medium,True,False,2026-03-27 09:01:00
+CF01278,70,Female,General Medicine,High,True,False,2026-03-14 19:26:00
+CF01279,38,Male,Cardiology,High,True,False,2026-01-23 04:58:00
+CF01280,49,Male,Emergency,Medium,False,False,2026-02-05 12:36:00
+CF01281,63,Other,Emergency,Medium,False,False,2026-02-26 05:04:00
+CF01282,70,Female,Emergency,High,False,False,2026-02-14 23:22:00
+CF01283,21,Male,Emergency,High,True,False,2026-03-07 09:32:00
+CF01284,19,Male,General Medicine,Medium,True,False,2026-03-03 20:27:00
+CF01285,37,Female,Emergency,Low,False,True,2026-03-13 11:39:00
+CF01286,64,Male,General Medicine,Medium,False,False,2026-03-15 23:28:00
+CF01287,10,Male,General Medicine,Medium,True,False,2026-01-01 10:14:00
+CF01288,83,Male,Emergency,Medium,False,False,2026-01-10 11:39:00
+CF01289,89,Male,Orthopedics,Medium,False,False,2026-03-12 23:53:00
+CF01290,85,Male,Cardiology,Critical,False,False,2026-01-04 17:24:00
+CF01291,47,Male,Orthopedics,Critical,False,False,2026-03-10 10:30:00
+CF01292,17,Male,Trauma,Medium,True,False,2026-02-16 18:37:00
+CF01293,2,Male,Emergency,High,False,False,2026-02-19 22:22:00
+CF01294,48,Male,Emergency,Medium,True,False,2026-03-07 01:53:00
+CF01295,40,Female,Trauma,High,False,False,2026-04-01 05:33:00
+CF01296,75,Female,Trauma,High,False,False,2026-02-21 23:59:00
+CF01297,72,Female,General Medicine,High,True,False,2026-03-09 03:03:00
+CF01298,61,Female,Trauma,Critical,False,False,2026-01-20 22:33:00
+CF01299,37,Male,Emergency,High,False,True,2026-03-26 10:45:00
+CF01300,12,Female,Orthopedics,Medium,False,False,2026-03-26 15:21:00
+CF01301,42,Male,Orthopedics,High,True,False,2026-01-04 15:19:00
+CF01302,70,Female,Emergency,Medium,True,False,2026-03-22 02:48:00
+CF01303,29,Male,Emergency,Low,False,False,2026-01-05 14:21:00
+CF01304,51,Female,Cardiology,Medium,False,False,2026-01-26 14:59:00
+CF01305,11,Male,Orthopedics,Medium,True,False,2026-03-19 23:28:00
+CF01306,18,Male,General Medicine,Low,True,False,2026-03-01 11:46:00
+CF01307,79,Male,Emergency,Medium,False,False,2026-02-13 10:17:00
+CF01308,63,Female,Cardiology,Medium,True,False,2026-03-02 20:10:00
+CF01309,16,Male,Emergency,Medium,True,False,2026-01-09 20:18:00
+CF01310,26,Male,Emergency,Low,False,False,2026-03-01 00:16:00
+CF01311,61,Female,Emergency,Critical,True,False,2026-01-01 18:47:00
+CF01312,26,Female,General Medicine,Critical,False,False,2026-01-26 18:36:00
+CF01313,16,Female,General Medicine,Medium,True,False,2026-03-07 12:05:00
+CF01314,21,Male,Emergency,Low,True,False,2026-01-11 03:54:00
+CF01315,82,Male,Emergency,Low,True,False,2026-01-17 19:25:00
+CF01316,76,Female,General Medicine,High,False,False,2026-02-23 06:56:00
+CF01317,87,Male,Emergency,Medium,False,False,2026-03-18 11:55:00
+CF01318,44,Male,Emergency,Low,False,False,2026-02-26 01:17:00
+CF01319,37,Female,Trauma,Medium,False,False,2026-01-06 07:00:00
+CF01320,23,Male,General Medicine,Low,True,False,2026-01-10 03:34:00
+CF01321,59,Male,Trauma,Low,False,False,2026-02-03 04:02:00
+CF01322,33,Female,General Medicine,Medium,True,False,2026-03-22 04:22:00
+CF01323,9,Female,General Medicine,Medium,False,False,2026-01-23 14:08:00
+CF01324,88,Male,Emergency,Medium,False,False,2026-03-16 15:36:00
+CF01325,8,Male,Cardiology,Medium,False,False,2026-03-19 04:46:00
+CF01326,52,Male,Emergency,Low,False,False,2026-02-11 23:01:00
+CF01327,44,Female,Cardiology,Medium,False,False,2026-03-07 12:20:00
+CF01328,59,Female,Emergency,Low,True,False,2026-03-03 20:48:00
+CF01329,32,Female,Emergency,Low,True,False,2026-03-10 06:19:00
+CF01330,63,Female,Orthopedics,Critical,False,False,2026-03-19 23:31:00
+CF01331,15,Male,Cardiology,Medium,False,False,2026-03-30 12:12:00
+CF01332,41,Male,General Medicine,High,False,False,2026-03-31 05:06:00
+CF01333,21,Female,Trauma,Medium,True,False,2026-03-21 10:11:00
+CF01334,17,Female,Emergency,Medium,False,False,2026-03-04 15:42:00
+CF01335,63,Female,Orthopedics,High,False,False,2026-02-27 12:13:00
+CF01336,52,Female,Trauma,Medium,True,False,2026-01-04 12:33:00
+CF01337,18,Male,General Medicine,Medium,True,False,2026-02-21 11:52:00
+CF01338,73,Female,Emergency,Medium,False,False,2026-01-04 23:15:00
+CF01339,75,Female,Emergency,High,False,False,2026-02-14 08:57:00
+CF01340,51,Female,Emergency,Medium,False,False,2026-03-15 11:57:00
+CF01341,28,Male,General Medicine,Medium,True,False,2026-02-12 02:53:00
+CF01342,30,Male,Emergency,Low,True,False,2026-01-13 22:50:00
+CF01343,79,Male,General Medicine,High,True,False,2026-02-03 19:03:00
+CF01344,27,Male,General Medicine,Medium,True,False,2026-01-16 20:59:00
+CF01345,7,Male,Orthopedics,Medium,False,False,2026-02-26 22:57:00
+CF01346,89,Female,Emergency,Medium,True,False,2026-03-07 06:57:00
+CF01347,7,Male,Emergency,Low,False,False,2026-01-24 01:49:00
+CF01348,39,Male,Emergency,High,True,False,2026-01-22 19:04:00
+CF01349,3,Male,General Medicine,Medium,False,False,2026-02-27 04:02:00
+CF01350,57,Female,Emergency,Low,False,True,2026-03-09 19:14:00
+CF01351,79,Female,General Medicine,High,False,False,2026-03-01 01:55:00
+CF01352,36,Female,Emergency,Low,True,False,2026-02-04 14:19:00
+CF01353,70,Male,Emergency,Medium,False,False,2026-03-18 10:26:00
+CF01354,79,Female,Emergency,High,True,False,2026-03-12 05:28:00
+CF01355,89,Other,Emergency,Medium,False,False,2026-01-02 18:26:00
+CF01356,80,Female,Emergency,Medium,False,False,2026-03-16 17:24:00
+CF01357,16,Female,Orthopedics,Medium,False,False,2026-01-12 09:46:00
+CF01358,5,Male,Cardiology,Low,False,False,2026-01-22 01:36:00
+CF01359,48,Female,General Medicine,Low,True,False,2026-02-22 07:46:00
+CF01360,72,Male,Emergency,High,False,False,2026-02-27 23:06:00
+CF01361,59,Female,Emergency,Medium,False,False,2026-02-01 13:58:00
+CF01362,39,Female,General Medicine,Critical,False,False,2026-03-16 16:40:00
+CF01363,37,Female,General Medicine,Medium,False,False,2026-01-15 03:19:00
+CF01364,30,Male,Emergency,High,True,False,2026-03-24 00:40:00
+CF01365,87,Female,Cardiology,Medium,False,False,2026-03-11 01:17:00
+CF01366,19,Female,Orthopedics,Low,False,False,2026-03-23 11:13:00
+CF01367,68,Female,Emergency,High,True,False,2026-03-06 13:51:00
+CF01368,58,Female,Emergency,Low,True,False,2026-01-26 14:53:00
+CF01369,43,Female,Emergency,Low,True,False,2026-01-14 08:50:00
+CF01370,61,Male,Emergency,Medium,False,False,2026-02-03 16:48:00
+CF01371,19,Female,Trauma,Medium,False,False,2026-01-21 21:26:00
+CF01372,66,Female,Trauma,Medium,False,False,2026-02-03 08:51:00
+CF01373,37,Female,Trauma,Medium,False,False,2026-03-17 09:27:00
+CF01374,59,Female,General Medicine,Critical,False,False,2026-03-20 04:11:00
+CF01375,73,Male,General Medicine,Medium,False,False,2026-03-05 12:31:00
+CF01376,1,Female,Orthopedics,Medium,False,False,2026-03-26 16:33:00
+CF01377,78,Male,Emergency,High,True,False,2026-03-28 22:38:00
+CF01378,68,Female,Emergency,Medium,False,False,2026-03-23 05:33:00
+CF01379,90,Male,Trauma,Low,True,False,2026-02-05 10:02:00
+CF01380,42,Male,Emergency,Medium,True,False,2026-02-26 08:57:00
+CF01381,42,Male,Emergency,Critical,False,False,2026-03-07 00:48:00
+CF01382,5,Female,General Medicine,Medium,True,False,2026-02-15 05:44:00
+CF01383,21,Male,Cardiology,High,True,False,2026-03-17 14:44:00
+CF01384,90,Female,Orthopedics,Medium,True,False,2026-01-15 13:16:00
+CF01385,3,Male,General Medicine,Medium,False,False,2026-01-11 15:12:00
+CF01386,53,Female,Emergency,Medium,True,False,2026-01-16 03:08:00
+CF01387,61,Female,Trauma,Medium,True,False,2026-01-02 09:37:00
+CF01388,1,Female,Orthopedics,Medium,True,False,2026-01-04 07:00:00
+CF01389,32,Male,General Medicine,Medium,True,False,2026-01-02 01:34:00
+CF01390,16,Male,Emergency,High,True,False,2026-03-03 19:07:00
+CF01391,75,Male,General Medicine,Medium,False,False,2026-03-05 13:51:00
+CF01392,87,Female,Orthopedics,Critical,False,False,2026-01-25 08:13:00
+CF01393,87,Male,General Medicine,Medium,False,False,2026-02-11 03:14:00
+CF01394,17,Female,Emergency,Low,True,False,2026-03-21 11:52:00
+CF01395,80,Male,Emergency,Medium,False,False,2026-02-17 14:19:00
+CF01396,41,Male,Trauma,High,True,False,2026-02-03 12:42:00
+CF01397,65,Female,Emergency,Medium,False,False,2026-03-22 15:37:00
+CF01398,90,Male,Emergency,High,False,False,2026-03-09 04:03:00
+CF01399,85,Male,Emergency,Medium,False,False,2026-01-04 19:34:00
+CF01400,5,Male,Cardiology,Medium,False,False,2026-03-10 20:50:00
+CF01401,73,Male,Emergency,Low,True,False,2026-01-11 00:15:00
+CF01402,15,Female,Emergency,Medium,False,False,2026-03-05 11:02:00
+CF01403,90,Male,Cardiology,Medium,False,False,2026-01-26 09:34:00
+CF01404,83,Female,Cardiology,Critical,False,False,2026-03-17 16:23:00
+CF01405,89,Male,Emergency,High,True,False,2026-03-05 05:25:00
+CF01406,76,Male,Emergency,Medium,False,False,2026-02-04 22:33:00
+CF01407,44,Male,Emergency,Medium,True,False,2026-02-02 15:52:00
+CF01408,13,Female,Emergency,Medium,False,False,2026-02-01 00:22:00
+CF01409,69,Male,General Medicine,Low,True,False,2026-03-01 17:41:00
+CF01410,23,Female,General Medicine,Low,True,False,2026-03-20 21:27:00
+CF01411,59,Female,Emergency,Low,True,False,2026-03-27 00:12:00
+CF01412,47,Female,Emergency,Medium,True,False,2026-02-20 04:30:00
+CF01413,83,Male,Cardiology,Medium,True,False,2026-03-02 08:17:00
+CF01414,37,Male,Trauma,Medium,True,False,2026-03-22 11:50:00
+CF01415,48,Male,Emergency,High,False,False,2026-01-22 13:34:00
+CF01416,36,Female,Orthopedics,Critical,False,False,2026-03-30 22:18:00
+CF01417,72,Male,Orthopedics,Medium,False,False,2026-01-03 06:02:00
+CF01418,57,Male,Emergency,Low,False,False,2026-01-27 19:50:00
+CF01419,31,Male,Emergency,High,True,False,2026-01-07 14:17:00
+CF01420,49,Male,Emergency,Medium,True,False,2026-01-19 03:43:00
+CF01421,69,Female,Emergency,Medium,False,False,2026-03-24 02:48:00
+CF01422,40,Female,Emergency,Critical,False,False,2026-03-06 21:25:00
+CF01423,2,Other,Orthopedics,Medium,True,False,2026-02-20 10:16:00
+CF01424,30,Male,General Medicine,High,False,False,2026-01-11 06:42:00
+CF01425,72,Female,Emergency,Medium,True,False,2026-01-22 18:09:00
+CF01426,55,Female,Emergency,Medium,False,False,2026-03-30 19:57:00
+CF01427,26,Female,Emergency,Medium,False,False,2026-01-28 18:37:00
+CF01428,35,Male,Emergency,Low,True,False,2026-02-18 16:49:00
+CF01429,17,Female,Emergency,Medium,False,False,2026-03-16 00:50:00
+CF01430,73,Male,Emergency,Medium,False,False,2026-03-04 10:10:00
+CF01431,84,Female,Emergency,Medium,False,False,2026-03-19 11:53:00
+CF01432,4,Male,Trauma,High,False,False,2026-01-27 21:55:00
+CF01433,12,Female,Emergency,Medium,False,False,2026-03-30 14:17:00
+CF01434,90,Female,Trauma,Medium,False,False,2026-01-24 06:22:00
+CF01435,37,Male,Emergency,Medium,True,False,2026-02-09 21:06:00
+CF01436,57,Female,Emergency,Low,True,False,2026-01-26 06:15:00
+CF01437,67,Female,Emergency,Low,True,False,2026-02-04 18:22:00
+CF01438,68,Male,Trauma,High,False,False,2026-01-02 05:22:00
+CF01439,65,Female,Cardiology,Medium,False,False,2026-03-14 00:39:00
+CF01440,89,Male,Trauma,High,False,False,2026-02-24 15:57:00
+CF01441,65,Male,Trauma,Medium,False,False,2026-02-16 05:11:00
+CF01442,82,Male,Orthopedics,Low,False,False,2026-02-20 05:31:00
+CF01443,25,Male,General Medicine,Medium,False,False,2026-03-19 18:09:00
+CF01444,69,Female,Orthopedics,Low,False,True,2026-03-13 05:21:00
+CF01445,38,Female,Emergency,Medium,False,False,2026-01-17 18:50:00
+CF01446,5,Male,Emergency,Low,True,False,2026-01-14 05:24:00
+CF01447,60,Male,Emergency,Medium,False,False,2026-02-21 10:18:00
+CF01448,27,Male,Emergency,Critical,False,False,2026-02-19 14:32:00
+CF01449,59,Male,Emergency,Critical,True,False,2026-02-10 20:32:00
+CF01450,55,Male,Emergency,Medium,False,False,2026-02-10 17:14:00
+CF01451,45,Female,General Medicine,Medium,True,False,2026-01-16 08:17:00
+CF01452,46,Female,Emergency,Low,True,False,2026-02-11 23:54:00
+CF01453,21,Male,General Medicine,Medium,False,False,2026-01-10 11:37:00
+CF01454,79,Male,Emergency,Medium,False,False,2026-02-16 16:54:00
+CF01455,38,Female,Orthopedics,Low,True,False,2026-03-07 19:38:00
+CF01456,35,Female,Emergency,Critical,False,False,2026-01-20 16:29:00
+CF01457,16,Male,Cardiology,Critical,False,False,2026-01-20 04:16:00
+CF01458,68,Female,Emergency,Low,True,False,2026-01-18 12:53:00
+CF01459,23,Male,General Medicine,Medium,True,False,2026-01-29 13:23:00
+CF01460,67,Male,Trauma,Medium,False,False,2026-03-09 21:47:00
+CF01461,21,Female,Trauma,Low,False,False,2026-01-31 03:44:00
+CF01462,80,Male,General Medicine,Low,False,False,2026-03-07 16:52:00
+CF01463,86,Male,Orthopedics,Critical,True,False,2026-03-21 23:34:00
+CF01464,88,Female,Emergency,Low,False,False,2026-02-13 19:33:00
+CF01465,24,Male,Orthopedics,Low,False,False,2026-03-27 16:33:00
+CF01466,80,Male,Emergency,Medium,True,False,2026-02-07 13:55:00
+CF01467,55,Male,Emergency,Medium,False,False,2026-02-07 23:45:00
+CF01468,15,Female,Emergency,High,False,False,2026-01-21 20:00:00
+CF01469,76,Male,Emergency,Medium,True,False,2026-03-10 10:28:00
+CF01470,71,Male,General Medicine,Medium,False,False,2026-01-04 05:41:00
+CF01471,59,Female,Trauma,High,False,False,2026-03-02 05:14:00
+CF01472,45,Female,Cardiology,Medium,False,False,2026-01-01 08:16:00
+CF01473,21,Female,Emergency,High,True,False,2026-02-06 21:35:00
+CF01474,87,Male,Emergency,Medium,True,False,2026-02-15 22:26:00
+CF01475,68,Male,Emergency,Medium,True,False,2026-03-29 21:35:00
+CF01476,26,Female,Emergency,High,False,False,2026-03-02 06:44:00
+CF01477,34,Female,Orthopedics,Medium,True,False,2026-01-12 03:11:00
+CF01478,16,Female,Emergency,Medium,False,False,2026-02-20 01:15:00
+CF01479,36,Male,General Medicine,Medium,False,False,2026-03-26 01:34:00
+CF01480,63,Female,Emergency,Medium,False,False,2026-02-24 20:43:00
+CF01481,38,Female,Emergency,Critical,False,False,2026-03-27 15:47:00
+CF01482,40,Female,Emergency,Critical,False,False,2026-02-06 12:03:00
+CF01483,68,Male,Emergency,Medium,False,False,2026-03-14 02:01:00
+CF01484,30,Female,General Medicine,Medium,False,False,2026-03-12 19:14:00
+CF01485,67,Male,Emergency,High,True,False,2026-03-25 23:33:00
+CF01486,19,Male,Emergency,Low,False,False,2026-03-18 15:43:00
+CF01487,43,Female,General Medicine,Critical,False,False,2026-01-30 20:34:00
+CF01488,41,Female,General Medicine,Medium,True,False,2026-02-17 03:17:00
+CF01489,9,Male,General Medicine,Low,False,False,2026-02-28 08:39:00
+CF01490,55,Female,Emergency,High,True,False,2026-01-26 16:03:00
+CF01491,69,Female,Emergency,Medium,False,False,2026-01-11 12:04:00
+CF01492,19,Female,General Medicine,Medium,True,False,2026-03-28 02:48:00
+CF01493,38,Male,Orthopedics,Medium,True,False,2026-01-28 04:22:00
+CF01494,4,Female,Orthopedics,Medium,True,False,2026-03-01 08:11:00
+CF01495,42,Male,Emergency,Medium,False,False,2026-03-25 13:51:00
+CF01496,63,Male,General Medicine,Medium,False,False,2026-02-16 10:58:00
+CF01497,63,Male,Cardiology,Medium,True,False,2026-02-08 17:36:00
+CF01498,44,Male,Emergency,Medium,True,False,2026-01-22 02:59:00
+CF01499,21,Female,Emergency,Low,False,False,2026-03-26 10:32:00
+CF01500,35,Male,Emergency,Critical,True,False,2026-02-09 13:55:00
+CF01501,29,Male,General Medicine,Medium,False,False,2026-01-16 14:21:00
+CF01502,74,Male,Emergency,Medium,True,False,2026-01-08 10:31:00
+CF01503,14,Male,Emergency,High,True,False,2026-02-17 08:24:00
+CF01504,73,Male,Emergency,Medium,True,False,2026-02-08 20:22:00
+CF01505,50,Female,Emergency,Medium,False,False,2026-03-21 15:25:00
+CF01506,57,Female,Trauma,High,False,False,2026-03-11 08:45:00
+CF01507,71,Male,General Medicine,Medium,True,False,2026-01-18 16:43:00
+CF01508,66,Female,General Medicine,Medium,False,False,2026-03-21 00:37:00
+CF01509,58,Female,Orthopedics,High,False,False,2026-02-20 17:06:00
+CF01510,79,Female,Orthopedics,Medium,False,False,2026-01-25 05:37:00
+CF01511,25,Female,General Medicine,Medium,False,False,2026-03-28 05:36:00
+CF01512,43,Male,Emergency,Low,True,False,2026-02-03 23:13:00
+CF01513,46,Other,Emergency,Medium,False,False,2026-02-16 05:38:00
+CF01514,40,Female,General Medicine,Medium,False,False,2026-03-14 01:29:00
+CF01515,57,Female,General Medicine,Low,False,False,2026-03-22 23:17:00
+CF01516,12,Male,General Medicine,Medium,True,False,2026-02-25 13:49:00
+CF01517,3,Male,Emergency,Medium,False,False,2026-02-18 23:35:00
+CF01518,42,Female,Orthopedics,High,False,False,2026-03-04 04:59:00
+CF01519,41,Male,Emergency,High,True,False,2026-01-19 05:22:00
+CF01520,13,Female,General Medicine,Low,False,False,2026-03-13 11:10:00
+CF01521,69,Male,Emergency,Medium,False,False,2026-03-30 20:26:00
+CF01522,19,Male,Emergency,High,False,False,2026-03-26 09:56:00
+CF01523,19,Male,General Medicine,Low,True,False,2026-03-29 16:30:00
+CF01524,33,Male,Emergency,Critical,True,False,2026-02-12 23:05:00
+CF01525,61,Female,Cardiology,Medium,False,False,2026-02-10 15:40:00
+CF01526,40,Female,Emergency,Low,False,False,2026-03-18 06:06:00
+CF01527,37,Male,Emergency,High,False,False,2026-01-17 01:55:00
+CF01528,80,Female,Emergency,Low,True,False,2026-02-22 20:32:00
+CF01529,4,Female,Emergency,Medium,True,False,2026-01-12 00:26:00
+CF01530,81,Female,Orthopedics,Medium,True,False,2026-02-25 01:33:00
+CF01531,39,Female,Cardiology,Low,True,False,2026-03-19 08:14:00
+CF01532,22,Male,Emergency,High,False,False,2026-02-05 00:57:00
+CF01533,69,Female,Trauma,Medium,False,False,2026-03-17 12:57:00
+CF01534,47,Female,Cardiology,Low,False,False,2026-02-10 18:02:00
+CF01535,7,Female,Emergency,Medium,True,False,2026-02-06 16:30:00
+CF01536,59,Male,General Medicine,Critical,True,False,2026-01-01 17:43:00
+CF01537,10,Male,General Medicine,Critical,False,False,2026-03-03 11:00:00
+CF01538,27,Female,Emergency,Medium,True,False,2026-03-17 02:33:00
+CF01539,50,Female,Trauma,Critical,False,False,2026-01-03 14:54:00
+CF01540,13,Male,Emergency,Medium,False,False,2026-01-06 14:47:00
+CF01541,45,Male,Orthopedics,High,False,False,2026-03-27 21:32:00
+CF01542,18,Female,Cardiology,Low,False,False,2026-03-07 22:07:00
+CF01543,69,Female,Emergency,Medium,True,False,2026-02-18 04:19:00
+CF01544,82,Male,General Medicine,Medium,False,False,2026-02-07 09:03:00
+CF01545,38,Female,Emergency,Low,True,False,2026-02-14 16:31:00
+CF01546,81,Female,Emergency,Medium,False,False,2026-02-26 22:00:00
+CF01547,58,Male,General Medicine,Low,False,False,2026-03-27 22:47:00
+CF01548,5,Female,Cardiology,Medium,False,True,2026-01-11 04:36:00
+CF01549,77,Female,Emergency,Critical,False,False,2026-02-06 16:16:00
+CF01550,36,Male,Cardiology,High,False,False,2026-02-13 10:35:00
+CF01551,63,Male,Emergency,Low,False,False,2026-01-19 20:31:00
+CF01552,21,Other,Cardiology,Low,False,False,2026-01-05 02:43:00
+CF01553,24,Male,Orthopedics,Medium,True,False,2026-01-22 10:44:00
+CF01554,17,Female,General Medicine,Low,True,False,2026-01-22 14:24:00
+CF01555,73,Male,Emergency,High,False,False,2026-02-15 08:19:00
+CF01556,24,Female,Emergency,Medium,False,False,2026-03-06 02:00:00
+CF01557,68,Female,Emergency,High,False,False,2026-02-14 18:05:00
+CF01558,50,Male,Emergency,Medium,False,False,2026-03-30 21:58:00
+CF01559,9,Female,General Medicine,Medium,False,False,2026-03-08 11:01:00
+CF01560,61,Female,Emergency,Low,True,False,2026-03-29 10:38:00
+CF01561,15,Female,Emergency,High,False,True,2026-03-29 00:44:00
+CF01562,85,Female,General Medicine,Medium,True,False,2026-03-05 16:39:00
+CF01563,21,Female,Trauma,Low,False,False,2026-01-13 22:39:00
+CF01564,54,Male,Trauma,Low,False,False,2026-02-26 09:10:00
+CF01565,51,Female,Orthopedics,Low,True,False,2026-01-25 03:11:00
+CF01566,86,Other,Trauma,High,False,False,2026-02-21 10:30:00
+CF01567,40,Female,General Medicine,Medium,False,False,2026-03-22 22:36:00
+CF01568,60,Male,Emergency,Low,True,False,2026-01-19 20:27:00
+CF01569,71,Female,Emergency,Medium,True,False,2026-02-08 19:39:00
+CF01570,7,Other,Trauma,Medium,False,False,2026-03-12 09:07:00
+CF01571,24,Female,Emergency,Medium,False,False,2026-03-31 00:55:00
+CF01572,19,Female,Emergency,Low,True,False,2026-01-05 01:13:00
+CF01573,71,Male,General Medicine,High,False,False,2026-03-12 23:14:00
+CF01574,31,Female,Emergency,Medium,True,False,2026-01-20 12:08:00
+CF01575,35,Female,Emergency,Medium,False,False,2026-02-28 23:56:00
+CF01576,69,Male,Emergency,High,False,False,2026-03-03 07:06:00
+CF01577,41,Female,General Medicine,Low,False,False,2026-03-29 02:58:00
+CF01578,66,Male,Emergency,High,True,False,2026-03-13 17:39:00
+CF01579,55,Female,Emergency,Low,True,False,2026-01-12 02:00:00
+CF01580,30,Female,Cardiology,Low,True,False,2026-02-24 22:31:00
+CF01581,27,Male,Emergency,Medium,False,False,2026-03-14 07:09:00
+CF01582,39,Female,Emergency,Critical,True,False,2026-02-10 23:46:00
+CF01583,32,Male,Emergency,High,True,False,2026-03-20 08:31:00
+CF01584,19,Female,Emergency,High,True,False,2026-01-10 18:42:00
+CF01585,6,Female,Emergency,Medium,False,False,2026-03-15 16:50:00
+CF01586,88,Male,Emergency,Low,False,False,2026-02-22 20:59:00
+CF01587,19,Male,Emergency,Low,False,False,2026-03-05 14:36:00
+CF01588,26,Female,General Medicine,Medium,False,False,2026-02-23 16:26:00
+CF01589,14,Female,Emergency,High,True,False,2026-01-10 14:13:00
+CF01590,47,Female,Emergency,Medium,True,False,2026-03-16 10:27:00
+CF01591,75,Female,Emergency,Medium,True,False,2026-01-17 02:22:00
+CF01592,26,Female,General Medicine,Medium,False,False,2026-03-15 23:59:00
+CF01593,10,Female,Trauma,Medium,False,False,2026-02-19 12:43:00
+CF01594,55,Female,Trauma,Medium,False,False,2026-03-08 13:35:00
+CF01595,52,Female,Orthopedics,High,True,False,2026-03-22 01:13:00
+CF01596,14,Female,Orthopedics,High,True,False,2026-01-25 07:04:00
+CF01597,71,Female,Orthopedics,Critical,True,False,2026-02-06 10:08:00
+CF01598,10,Female,Emergency,High,False,False,2026-01-03 08:30:00
+CF01599,35,Male,Emergency,Medium,False,False,2026-02-05 16:04:00
+CF01600,5,Male,Emergency,Medium,True,False,2026-03-30 23:51:00
+CF01601,87,Female,General Medicine,High,False,False,2026-02-23 10:50:00
+CF01602,52,Female,Cardiology,Medium,True,False,2026-03-13 23:10:00
+CF01603,39,Female,General Medicine,Low,True,False,2026-03-02 20:17:00
+CF01604,21,Male,Cardiology,Medium,True,False,2026-02-14 03:12:00
+CF01605,64,Male,General Medicine,Medium,False,False,2026-01-28 02:00:00
+CF01606,9,Female,Cardiology,Low,False,False,2026-03-22 16:34:00
+CF01607,1,Female,Emergency,High,True,False,2026-01-29 13:07:00
+CF01608,14,Male,Emergency,High,False,False,2026-03-13 20:20:00
+CF01609,35,Female,Orthopedics,Low,False,False,2026-02-06 06:12:00
+CF01610,88,Female,Emergency,High,False,False,2026-03-26 04:58:00
+CF01611,79,Male,Emergency,Low,False,False,2026-03-03 08:57:00
+CF01612,75,Female,Emergency,Low,False,False,2026-01-07 03:05:00
+CF01613,30,Female,Emergency,Medium,False,False,2026-02-20 01:24:00
+CF01614,30,Female,Emergency,Low,False,False,2026-01-15 18:01:00
+CF01615,12,Male,Emergency,Low,False,False,2026-03-09 15:28:00
+CF01616,47,Male,General Medicine,Low,True,False,2026-02-05 01:24:00
+CF01617,22,Male,Cardiology,High,False,False,2026-03-13 00:58:00
+CF01618,71,Female,General Medicine,Medium,False,False,2026-02-25 18:00:00
+CF01619,86,Male,Trauma,Medium,False,False,2026-03-18 19:00:00
+CF01620,62,Female,General Medicine,Medium,False,False,2026-02-10 03:16:00
+CF01621,78,Male,Emergency,Medium,False,False,2026-01-20 08:12:00
+CF01622,27,Male,Emergency,Medium,True,False,2026-03-01 08:04:00
+CF01623,55,Male,Emergency,High,False,False,2026-01-28 09:22:00
+CF01624,24,Male,Cardiology,Low,False,False,2026-03-31 01:18:00
+CF01625,57,Female,Emergency,High,False,False,2026-02-23 14:32:00
+CF01626,57,Male,General Medicine,Medium,True,False,2026-01-16 21:00:00
+CF01627,4,Female,Orthopedics,Medium,True,False,2026-03-05 18:57:00
+CF01628,72,Male,Emergency,High,False,False,2026-03-29 08:20:00
+CF01629,77,Female,Emergency,Medium,False,False,2026-01-08 11:59:00
+CF01630,90,Male,General Medicine,High,False,False,2026-02-08 18:54:00
+CF01631,11,Male,Trauma,High,False,False,2026-02-05 04:09:00
+CF01632,29,Male,Emergency,Medium,True,False,2026-01-23 09:03:00
+CF01633,29,Male,Emergency,High,False,False,2026-03-17 08:30:00
+CF01634,32,Male,Orthopedics,Low,True,False,2026-02-25 08:49:00
+CF01635,48,Female,Emergency,Low,False,False,2026-01-19 05:18:00
+CF01636,63,Male,Orthopedics,Medium,False,False,2026-02-02 00:32:00
+CF01637,81,Male,Emergency,Medium,False,False,2026-02-12 08:17:00
+CF01638,59,Male,Trauma,Medium,True,False,2026-01-31 08:24:00
+CF01639,42,Female,Emergency,Medium,False,False,2026-03-26 20:35:00
+CF01640,27,Female,General Medicine,Critical,False,False,2026-02-20 22:51:00
+CF01641,47,Female,General Medicine,Medium,False,False,2026-03-26 18:17:00
+CF01642,51,Female,Emergency,High,False,False,2026-03-10 23:15:00
+CF01643,64,Female,General Medicine,Low,False,True,2026-03-21 20:09:00
+CF01644,82,Male,Cardiology,High,False,False,2026-03-15 21:04:00
+CF01645,85,Male,Cardiology,Low,False,False,2026-01-15 11:03:00
+CF01646,63,Female,Cardiology,High,True,False,2026-01-29 10:10:00
+CF01647,15,Male,Orthopedics,Critical,False,False,2026-01-24 19:58:00
+CF01648,88,Female,Orthopedics,Low,False,False,2026-01-10 19:25:00
+CF01649,76,Female,Emergency,Low,False,False,2026-02-02 23:43:00
+CF01650,65,Male,Emergency,Low,False,False,2026-02-28 23:20:00
+CF01651,16,Female,Orthopedics,High,False,False,2026-03-22 19:37:00
+CF01652,34,Male,Emergency,High,False,False,2026-01-31 01:29:00
+CF01653,83,Male,Emergency,High,False,False,2026-03-08 00:22:00
+CF01654,62,Male,Cardiology,Medium,True,False,2026-01-11 07:57:00
+CF01655,89,Female,Orthopedics,Critical,False,False,2026-03-15 16:08:00
+CF01656,86,Male,Emergency,Medium,False,False,2026-01-23 00:23:00
+CF01657,84,Male,Emergency,Medium,False,False,2026-01-19 20:34:00
+CF01658,67,Male,Emergency,Medium,False,False,2026-01-09 19:24:00
+CF01659,65,Male,Emergency,Medium,True,False,2026-02-08 21:37:00
+CF01660,1,Female,Emergency,Medium,False,False,2026-02-04 17:34:00
+CF01661,57,Male,Orthopedics,Medium,False,False,2026-02-04 14:22:00
+CF01662,90,Male,General Medicine,Medium,True,False,2026-01-16 21:17:00
+CF01663,46,Female,Emergency,Medium,False,True,2026-02-14 23:00:00
+CF01664,81,Female,Trauma,Medium,False,False,2026-02-13 04:23:00
+CF01665,82,Female,Orthopedics,High,False,False,2026-01-19 17:53:00
+CF01666,43,Female,Trauma,High,True,False,2026-03-30 00:51:00
+CF01667,76,Female,General Medicine,High,False,False,2026-02-10 04:15:00
+CF01668,85,Male,Cardiology,High,False,False,2026-02-06 16:36:00
+CF01669,77,Male,Emergency,Low,False,False,2026-01-23 02:43:00
+CF01670,15,Male,Emergency,Medium,False,False,2026-01-25 04:40:00
+CF01671,8,Male,Trauma,High,True,False,2026-01-15 14:22:00
+CF01672,74,Male,General Medicine,Low,False,False,2026-03-08 18:01:00
+CF01673,18,Female,Trauma,Critical,False,False,2026-03-29 10:38:00
+CF01674,18,Male,Emergency,Critical,True,False,2026-01-11 13:53:00
+CF01675,25,Female,Cardiology,Medium,False,False,2026-03-30 13:06:00
+CF01676,23,Male,Orthopedics,Medium,True,False,2026-03-19 00:09:00
+CF01677,83,Female,Emergency,High,True,False,2026-02-12 13:21:00
+CF01678,86,Female,Cardiology,Low,True,False,2026-01-02 05:01:00
+CF01679,37,Female,General Medicine,Medium,True,False,2026-03-31 01:04:00
+CF01680,73,Female,Cardiology,Medium,False,False,2026-01-01 13:19:00
+CF01681,63,Male,Cardiology,High,False,False,2026-03-03 11:39:00
+CF01682,10,Female,General Medicine,High,True,False,2026-03-31 23:00:00
+CF01683,17,Male,Trauma,Medium,True,False,2026-02-06 14:18:00
+CF01684,38,Female,Cardiology,Medium,False,False,2026-03-21 20:11:00
+CF01685,9,Male,General Medicine,Critical,False,False,2026-02-03 17:05:00
+CF01686,20,Female,Emergency,Medium,True,False,2026-03-31 05:25:00
+CF01687,8,Male,General Medicine,High,False,False,2026-03-26 04:52:00
+CF01688,88,Male,Emergency,Medium,False,False,2026-02-11 16:51:00
+CF01689,7,Female,Emergency,Low,False,False,2026-04-01 00:26:00
+CF01690,66,Female,Emergency,Medium,True,False,2026-01-28 12:37:00
+CF01691,78,Female,Trauma,High,True,False,2026-01-08 18:41:00
+CF01692,11,Female,Emergency,Low,False,False,2026-01-12 16:35:00
+CF01693,79,Male,Orthopedics,Critical,False,False,2026-03-17 10:54:00
+CF01694,48,Female,Orthopedics,Medium,False,False,2026-02-09 09:04:00
+CF01695,10,Female,Trauma,Medium,False,False,2026-03-19 05:52:00
+CF01696,63,Male,Emergency,High,False,False,2026-02-10 09:46:00
+CF01697,12,Female,General Medicine,High,False,False,2026-03-13 02:57:00
+CF01698,22,Female,Emergency,Low,False,False,2026-03-05 01:44:00
+CF01699,67,Female,Orthopedics,Low,False,False,2026-01-23 19:58:00
+CF01700,64,Female,General Medicine,Medium,True,False,2026-01-11 02:40:00
+CF01701,5,Male,General Medicine,Low,True,False,2026-03-25 19:14:00
+CF01702,75,Male,General Medicine,Medium,False,False,2026-01-16 14:39:00
+CF01703,83,Female,General Medicine,Medium,True,False,2026-02-26 03:27:00
+CF01704,78,Male,Emergency,Medium,False,False,2026-03-02 06:45:00
+CF01705,28,Male,Emergency,Medium,True,False,2026-02-09 07:06:00
+CF01706,43,Female,General Medicine,Medium,False,False,2026-03-17 20:13:00
+CF01707,61,Female,Emergency,High,True,False,2026-03-30 21:27:00
+CF01708,79,Male,Emergency,Critical,False,False,2026-01-26 09:36:00
+CF01709,44,Male,General Medicine,Medium,False,False,2026-02-27 21:18:00
+CF01710,1,Male,Trauma,Medium,False,False,2026-03-29 11:34:00
+CF01711,56,Female,Emergency,Medium,False,False,2026-02-18 04:43:00
+CF01712,26,Female,Emergency,Low,False,False,2026-01-20 22:43:00
+CF01713,33,Other,General Medicine,Critical,False,False,2026-03-24 23:34:00
+CF01714,90,Male,Emergency,Low,True,False,2026-02-20 04:46:00
+CF01715,74,Male,Emergency,Medium,False,False,2026-03-02 05:00:00
+CF01716,63,Male,Trauma,High,False,False,2026-04-01 04:00:00
+CF01717,89,Female,Emergency,Low,False,False,2026-02-03 18:08:00
+CF01718,90,Male,Emergency,Medium,False,False,2026-01-26 06:10:00
+CF01719,26,Male,Orthopedics,Medium,False,False,2026-01-23 04:40:00
+CF01720,57,Female,General Medicine,Medium,False,False,2026-01-19 04:28:00
+CF01721,80,Male,Trauma,Low,False,False,2026-03-13 07:02:00
+CF01722,89,Male,Emergency,Low,False,False,2026-01-27 07:14:00
+CF01723,48,Other,Orthopedics,High,True,False,2026-02-28 10:04:00
+CF01724,58,Female,Cardiology,High,True,False,2026-01-20 10:45:00
+CF01725,29,Male,General Medicine,Medium,False,False,2026-01-20 21:51:00
+CF01726,31,Male,Trauma,Medium,True,False,2026-03-17 14:57:00
+CF01727,11,Other,Emergency,Medium,True,False,2026-02-19 14:20:00
+CF01728,14,Male,Cardiology,Low,True,False,2026-01-02 17:17:00
+CF01729,49,Female,Emergency,Critical,False,False,2026-03-30 15:23:00
+CF01730,28,Male,Emergency,High,False,False,2026-03-13 05:07:00
+CF01731,79,Male,General Medicine,Low,True,False,2026-03-20 01:49:00
+CF01732,83,Male,General Medicine,Critical,False,True,2026-02-11 21:27:00
+CF01733,73,Female,General Medicine,Medium,True,False,2026-01-31 07:57:00
+CF01734,60,Female,General Medicine,Medium,True,False,2026-03-11 02:44:00
+CF01735,80,Female,Trauma,High,True,False,2026-02-25 10:26:00
+CF01736,20,Female,General Medicine,High,True,False,2026-01-09 02:53:00
+CF01737,39,Male,Trauma,High,False,False,2026-02-25 20:15:00
+CF01738,87,Male,Emergency,Low,True,False,2026-03-01 07:12:00
+CF01739,84,Female,Emergency,Medium,False,False,2026-03-22 04:03:00
+CF01740,73,Female,Emergency,Medium,True,False,2026-03-05 23:18:00
+CF01741,72,Female,Emergency,High,False,True,2026-03-17 03:43:00
+CF01742,62,Male,Emergency,Low,False,False,2026-02-22 06:58:00
+CF01743,69,Male,Cardiology,High,False,False,2026-03-13 10:59:00
+CF01744,90,Female,Emergency,Medium,True,False,2026-02-24 11:48:00
+CF01745,1,Male,Orthopedics,Low,True,False,2026-02-26 02:40:00
+CF01746,49,Male,Emergency,Medium,True,False,2026-03-10 14:35:00
+CF01747,44,Male,Emergency,High,False,False,2026-03-23 01:31:00
+CF01748,9,Male,Trauma,Medium,True,False,2026-01-22 06:24:00
+CF01749,38,Female,Emergency,Medium,True,False,2026-03-12 06:15:00
+CF01750,77,Male,Emergency,Medium,False,False,2026-02-24 02:45:00
+CF01751,22,Female,General Medicine,Low,True,False,2026-04-01 03:53:00
+CF01752,63,Male,Trauma,Medium,False,False,2026-01-01 14:33:00
+CF01753,63,Male,Emergency,Medium,False,True,2026-01-30 02:53:00
+CF01754,10,Male,Trauma,Medium,False,False,2026-02-20 23:57:00
+CF01755,59,Male,Cardiology,Medium,True,False,2026-01-16 18:27:00
+CF01756,75,Female,Emergency,Low,True,False,2026-03-10 09:03:00
+CF01757,81,Female,Trauma,Medium,False,True,2026-02-28 03:49:00
+CF01758,14,Male,Emergency,Medium,False,False,2026-01-23 16:46:00
+CF01759,61,Female,Emergency,High,False,False,2026-01-18 09:42:00
+CF01760,55,Female,Emergency,Medium,False,False,2026-03-23 12:35:00
+CF01761,59,Female,Emergency,High,True,False,2026-02-10 23:23:00
+CF01762,51,Female,General Medicine,Medium,True,False,2026-03-05 19:56:00
+CF01763,26,Female,Emergency,Low,False,False,2026-01-07 22:39:00
+CF01764,66,Male,General Medicine,High,False,False,2026-03-14 05:38:00
+CF01765,33,Male,Trauma,High,True,False,2026-02-11 02:06:00
+CF01766,65,Male,Emergency,Medium,False,False,2026-03-16 14:38:00
+CF01767,32,Male,Trauma,High,True,False,2026-03-25 18:01:00
+CF01768,10,Male,Emergency,Medium,True,False,2026-01-28 12:28:00
+CF01769,14,Female,General Medicine,High,False,False,2026-03-14 01:56:00
+CF01770,65,Male,General Medicine,High,False,False,2026-02-01 14:01:00
+CF01771,42,Male,Cardiology,Medium,False,False,2026-04-01 02:19:00
+CF01772,67,Female,Cardiology,Medium,False,False,2026-03-20 13:19:00
+CF01773,53,Male,Emergency,Low,False,False,2026-02-09 12:41:00
+CF01774,48,Male,Cardiology,High,False,False,2026-02-21 02:53:00
+CF01775,88,Male,Trauma,Low,False,False,2026-03-18 05:11:00
+CF01776,57,Male,General Medicine,Low,False,False,2026-01-03 04:25:00
+CF01777,57,Female,Trauma,Medium,True,False,2026-02-04 22:06:00
+CF01778,36,Female,Emergency,Medium,False,False,2026-03-11 13:53:00
+CF01779,87,Male,Cardiology,Medium,True,False,2026-01-19 15:21:00
+CF01780,62,Male,Emergency,Medium,False,False,2026-02-08 19:51:00
+CF01781,90,Male,Trauma,Low,True,False,2026-03-07 10:12:00
+CF01782,12,Female,Emergency,High,False,False,2026-02-21 12:38:00
+CF01783,38,Male,General Medicine,Low,False,False,2026-01-22 03:39:00
+CF01784,1,Female,Orthopedics,Medium,True,False,2026-03-10 07:26:00
+CF01785,86,Male,Orthopedics,Medium,True,False,2026-01-25 18:28:00
+CF01786,72,Female,General Medicine,Medium,True,False,2026-03-14 04:19:00
+CF01787,33,Male,Emergency,Low,False,False,2026-01-31 03:39:00
+CF01788,64,Male,Cardiology,Low,True,False,2026-02-04 16:32:00
+CF01789,42,Male,Trauma,High,False,False,2026-02-07 18:34:00
+CF01790,84,Female,Emergency,Medium,True,False,2026-01-17 04:40:00
+CF01791,9,Female,Emergency,Medium,True,False,2026-03-17 20:24:00
+CF01792,27,Male,General Medicine,Medium,False,False,2026-02-28 11:04:00
+CF01793,25,Female,General Medicine,Medium,True,False,2026-02-27 05:32:00
+CF01794,90,Male,Emergency,Medium,False,False,2026-02-15 10:25:00
+CF01795,80,Female,Emergency,Medium,False,False,2026-01-23 19:20:00
+CF01796,59,Male,Orthopedics,Low,False,False,2026-02-24 16:20:00
+CF01797,53,Female,Emergency,High,False,False,2026-03-02 13:22:00
+CF01798,18,Female,Emergency,Low,False,False,2026-01-18 02:12:00
+CF01799,2,Female,Emergency,Low,True,False,2026-03-30 07:51:00
+CF01800,89,Male,General Medicine,Low,False,False,2026-02-26 04:22:00
+CF01801,86,Male,Emergency,Low,False,False,2026-03-27 04:41:00
+CF01802,82,Male,Orthopedics,Medium,True,False,2026-01-09 14:23:00
+CF01803,89,Female,Cardiology,Low,True,False,2026-01-22 15:50:00
+CF01804,60,Female,Cardiology,Medium,True,False,2026-02-27 18:39:00
+CF01805,67,Female,Emergency,Medium,False,False,2026-02-12 02:58:00
+CF01806,79,Female,Trauma,Low,True,False,2026-01-29 16:24:00
+CF01807,51,Female,Trauma,Low,True,False,2026-01-06 16:43:00
+CF01808,70,Female,Orthopedics,Medium,False,False,2026-02-19 12:18:00
+CF01809,15,Male,General Medicine,High,True,False,2026-03-13 17:12:00
+CF01810,70,Male,General Medicine,Medium,False,False,2026-01-27 10:54:00
+CF01811,52,Female,Cardiology,Medium,True,False,2026-03-16 14:23:00
+CF01812,89,Female,Cardiology,Medium,True,False,2026-03-28 03:07:00
+CF01813,10,Male,Emergency,Low,False,False,2026-03-01 07:31:00
+CF01814,76,Female,Cardiology,High,True,False,2026-02-20 05:42:00
+CF01815,35,Female,Trauma,Medium,False,False,2026-03-06 11:18:00
+CF01816,5,Male,General Medicine,High,True,False,2026-03-27 11:41:00
+CF01817,30,Female,Emergency,Medium,False,True,2026-02-12 13:01:00
+CF01818,80,Male,General Medicine,Low,False,False,2026-03-31 01:16:00
+CF01819,10,Female,Orthopedics,Medium,False,False,2026-02-04 16:08:00
+CF01820,24,Male,Trauma,Medium,False,False,2026-02-03 21:04:00
+CF01821,13,Female,Orthopedics,Low,False,False,2026-03-22 03:05:00
+CF01822,61,Male,Emergency,High,False,False,2026-02-24 02:04:00
+CF01823,19,Female,General Medicine,Medium,False,False,2026-01-17 13:11:00
+CF01824,73,Female,Emergency,Medium,True,False,2026-01-04 09:25:00
+CF01825,28,Male,Cardiology,Medium,False,False,2026-01-11 23:31:00
+CF01826,27,Male,Emergency,High,True,False,2026-03-05 04:13:00
+CF01827,2,Female,Orthopedics,High,False,False,2026-03-31 23:48:00
+CF01828,55,Other,Emergency,Medium,True,False,2026-01-23 20:20:00
+CF01829,55,Male,Emergency,Medium,False,False,2026-01-09 06:06:00
+CF01830,46,Female,Orthopedics,Critical,True,False,2026-03-23 14:34:00
+CF01831,67,Male,Emergency,Critical,False,False,2026-01-04 11:29:00
+CF01832,20,Male,General Medicine,Medium,False,False,2026-03-02 20:47:00
+CF01833,89,Male,Emergency,High,True,False,2026-03-03 14:33:00
+CF01834,56,Male,Cardiology,Medium,False,False,2026-03-06 18:47:00
+CF01835,74,Female,Trauma,High,True,False,2026-03-27 23:48:00
+CF01836,42,Female,General Medicine,Low,True,False,2026-01-09 01:19:00
+CF01837,47,Male,Emergency,Medium,False,False,2026-01-13 16:18:00
+CF01838,4,Female,General Medicine,Medium,True,False,2026-02-26 13:16:00
+CF01839,78,Female,Emergency,Medium,False,False,2026-02-08 12:03:00
+CF01840,3,Male,Orthopedics,High,True,False,2026-01-16 01:29:00
+CF01841,27,Male,Trauma,Low,False,False,2026-01-28 11:52:00
+CF01842,58,Male,Cardiology,Low,False,False,2026-01-21 16:24:00
+CF01843,13,Female,Emergency,Medium,True,False,2026-02-05 03:38:00
+CF01844,71,Male,Trauma,Low,False,False,2026-03-16 03:29:00
+CF01845,49,Male,General Medicine,Medium,False,False,2026-01-21 15:39:00
+CF01846,17,Male,Orthopedics,Medium,True,False,2026-03-23 13:37:00
+CF01847,26,Female,Cardiology,Low,True,False,2026-02-18 12:37:00
+CF01848,37,Female,Emergency,High,True,False,2026-03-30 11:27:00
+CF01849,61,Female,General Medicine,Medium,False,False,2026-01-09 01:36:00
+CF01850,56,Female,Orthopedics,High,True,False,2026-01-22 03:03:00
+CF01851,7,Female,Orthopedics,Low,False,False,2026-03-30 04:16:00
+CF01852,28,Female,Emergency,High,False,False,2026-02-09 16:39:00
+CF01853,31,Female,General Medicine,Medium,False,False,2026-03-27 13:08:00
+CF01854,16,Male,General Medicine,High,True,False,2026-03-23 18:48:00
+CF01855,81,Male,Emergency,Medium,True,False,2026-02-18 14:52:00
+CF01856,32,Female,Emergency,High,False,False,2026-03-11 18:27:00
+CF01857,25,Female,Orthopedics,Medium,True,False,2026-03-06 00:24:00
+CF01858,1,Male,General Medicine,Medium,False,True,2026-03-23 09:41:00
+CF01859,42,Male,Orthopedics,Low,False,False,2026-02-19 23:59:00
+CF01860,55,Male,Orthopedics,Low,True,False,2026-01-20 17:05:00
+CF01861,80,Male,Emergency,Low,False,False,2026-01-07 23:33:00
+CF01862,57,Male,Orthopedics,Medium,False,False,2026-03-06 23:14:00
+CF01863,5,Female,General Medicine,Medium,True,False,2026-03-21 18:44:00
+CF01864,30,Female,General Medicine,High,True,False,2026-02-08 00:40:00
+CF01865,56,Female,General Medicine,High,True,False,2026-02-23 14:16:00
+CF01866,4,Male,Cardiology,Low,False,False,2026-01-03 19:34:00
+CF01867,39,Female,Emergency,High,True,False,2026-01-11 19:39:00
+CF01868,85,Male,Orthopedics,Medium,False,False,2026-01-24 17:36:00
+CF01869,89,Female,Emergency,High,False,False,2026-01-15 23:57:00
+CF01870,61,Male,Orthopedics,Low,True,False,2026-02-05 21:21:00
+CF01871,81,Other,General Medicine,Medium,True,False,2026-03-30 14:15:00
+CF01872,29,Male,Orthopedics,Low,True,False,2026-02-25 15:08:00
+CF01873,62,Male,Emergency,High,True,False,2026-01-08 05:40:00
+CF01874,69,Male,Emergency,High,False,False,2026-03-17 23:20:00
+CF01875,85,Male,General Medicine,Medium,False,False,2026-01-30 10:30:00
+CF01876,15,Female,Emergency,High,False,False,2026-03-23 05:33:00
+CF01877,62,Female,General Medicine,Low,False,False,2026-03-20 10:08:00
+CF01878,10,Male,Emergency,High,False,False,2026-03-23 11:39:00
+CF01879,22,Female,Emergency,Low,True,False,2026-02-08 14:34:00
+CF01880,56,Female,General Medicine,High,False,False,2026-01-21 14:57:00
+CF01881,52,Male,Emergency,Critical,False,False,2026-03-15 16:17:00
+CF01882,46,Male,Emergency,High,False,False,2026-01-28 02:51:00
+CF01883,7,Other,Emergency,Low,False,False,2026-03-03 18:39:00
+CF01884,22,Female,Emergency,Medium,False,False,2026-02-22 10:29:00
+CF01885,53,Male,General Medicine,Medium,False,False,2026-03-24 13:44:00
+CF01886,68,Male,Emergency,High,False,False,2026-01-10 11:46:00
+CF01887,65,Female,Emergency,Medium,True,False,2026-03-20 07:36:00
+CF01888,84,Male,Orthopedics,Medium,False,False,2026-03-08 21:29:00
+CF01889,45,Male,Emergency,High,True,False,2026-01-11 02:56:00
+CF01890,67,Female,Emergency,Critical,True,False,2026-02-17 00:35:00
+CF01891,42,Female,General Medicine,High,False,False,2026-02-28 23:56:00
+CF01892,84,Male,General Medicine,High,False,False,2026-03-28 18:47:00
+CF01893,34,Female,Emergency,Critical,False,False,2026-02-14 04:36:00
+CF01894,20,Female,Emergency,Medium,True,False,2026-02-11 05:38:00
+CF01895,19,Male,Cardiology,Medium,False,False,2026-01-31 09:32:00
+CF01896,3,Female,Emergency,Critical,True,False,2026-01-27 09:46:00
+CF01897,8,Female,General Medicine,Critical,False,False,2026-01-02 06:31:00
+CF01898,64,Male,Orthopedics,High,False,False,2026-01-15 00:12:00
+CF01899,3,Female,Orthopedics,Low,False,False,2026-02-21 01:40:00
+CF01900,76,Male,Cardiology,High,True,False,2026-01-18 06:09:00
+CF01901,78,Female,Emergency,Low,False,False,2026-03-07 12:09:00
+CF01902,82,Female,Orthopedics,Low,False,False,2026-02-19 21:55:00
+CF01903,23,Female,Emergency,Low,True,False,2026-02-24 18:11:00
+CF01904,8,Male,Emergency,Critical,True,False,2026-03-22 04:07:00
+CF01905,7,Male,Emergency,High,False,False,2026-03-12 08:13:00
+CF01906,20,Male,General Medicine,Medium,True,False,2026-03-24 16:49:00
+CF01907,43,Female,Emergency,Low,False,False,2026-03-09 22:05:00
+CF01908,55,Other,Emergency,High,False,False,2026-01-06 04:51:00
+CF01909,27,Female,Emergency,Medium,False,False,2026-01-28 06:09:00
+CF01910,68,Female,Trauma,High,True,False,2026-02-27 12:10:00
+CF01911,60,Female,Trauma,Medium,True,False,2026-01-29 20:26:00
+CF01912,80,Other,Emergency,High,False,False,2026-02-09 13:56:00
+CF01913,39,Other,Cardiology,Low,False,False,2026-03-30 08:19:00
+CF01914,51,Female,Emergency,Medium,False,False,2026-03-20 13:16:00
+CF01915,16,Male,Emergency,Medium,True,False,2026-02-17 20:10:00
+CF01916,36,Female,Orthopedics,High,True,False,2026-03-14 22:23:00
+CF01917,16,Male,Orthopedics,High,False,False,2026-02-10 15:03:00
+CF01918,16,Male,Emergency,Medium,False,False,2026-01-14 17:23:00
+CF01919,66,Male,Trauma,Medium,True,False,2026-02-02 21:31:00
+CF01920,89,Female,Emergency,Medium,False,False,2026-02-28 17:43:00
+CF01921,64,Female,Cardiology,Medium,False,False,2026-02-22 04:23:00
+CF01922,77,Male,Orthopedics,High,True,False,2026-03-05 18:18:00
+CF01923,38,Female,General Medicine,High,True,False,2026-03-28 17:35:00
+CF01924,40,Female,Emergency,Low,False,False,2026-02-27 13:04:00
+CF01925,30,Female,Trauma,High,True,False,2026-01-22 13:37:00
+CF01926,36,Female,Cardiology,Medium,False,False,2026-02-26 06:40:00
+CF01927,25,Male,Emergency,High,False,False,2026-01-29 00:04:00
+CF01928,85,Male,Emergency,Medium,True,False,2026-01-29 12:12:00
+CF01929,25,Female,Cardiology,Medium,False,False,2026-01-13 05:56:00
+CF01930,32,Female,Emergency,Critical,False,False,2026-01-05 21:16:00
+CF01931,19,Female,Emergency,Medium,False,False,2026-01-05 19:10:00
+CF01932,22,Female,Trauma,Medium,False,False,2026-01-26 04:53:00
+CF01933,51,Male,Emergency,Medium,True,False,2026-02-19 00:55:00
+CF01934,83,Male,General Medicine,Medium,False,False,2026-03-02 00:54:00
+CF01935,89,Male,Emergency,Medium,False,False,2026-03-14 20:58:00
+CF01936,9,Male,Cardiology,Low,False,False,2026-01-03 06:06:00
+CF01937,83,Male,Emergency,Medium,False,False,2026-02-04 08:54:00
+CF01938,87,Female,Emergency,Low,False,False,2026-02-10 22:18:00
+CF01939,9,Male,Cardiology,High,False,False,2026-02-01 20:53:00
+CF01940,12,Female,General Medicine,High,False,False,2026-01-06 16:10:00
+CF01941,71,Female,Trauma,Critical,False,False,2026-03-13 23:26:00
+CF01942,65,Male,Emergency,Medium,False,False,2026-03-15 07:36:00
+CF01943,46,Female,Emergency,Medium,False,False,2026-02-09 04:56:00
+CF01944,44,Other,Cardiology,Medium,True,False,2026-03-13 18:09:00
+CF01945,72,Female,Trauma,Low,True,False,2026-03-21 11:02:00
+CF01946,50,Male,Trauma,Medium,False,False,2026-01-12 04:48:00
+CF01947,74,Female,Trauma,Medium,True,False,2026-03-17 16:07:00
+CF01948,63,Male,Emergency,High,True,False,2026-01-15 07:49:00
+CF01949,10,Other,Emergency,Medium,False,False,2026-01-15 20:38:00
+CF01950,80,Female,General Medicine,Low,False,False,2026-01-21 01:38:00
+CF01951,20,Male,Emergency,Medium,False,False,2026-02-16 00:56:00
+CF01952,51,Female,Orthopedics,Medium,True,False,2026-03-03 09:38:00
+CF01953,14,Male,Emergency,Medium,True,False,2026-01-21 01:03:00
+CF01954,33,Male,Emergency,Critical,False,False,2026-01-02 12:53:00
+CF01955,80,Male,Emergency,Medium,False,False,2026-02-24 06:15:00
+CF01956,43,Female,Emergency,Low,True,False,2026-03-05 18:49:00
+CF01957,26,Female,Emergency,High,True,False,2026-02-04 19:00:00
+CF01958,32,Male,General Medicine,Medium,False,False,2026-02-27 02:08:00
+CF01959,1,Male,Trauma,Medium,True,False,2026-01-30 14:40:00
+CF01960,57,Male,Orthopedics,Medium,False,False,2026-01-13 05:58:00
+CF01961,33,Male,General Medicine,Medium,True,False,2026-02-25 07:25:00
+CF01962,72,Male,Emergency,High,True,False,2026-01-27 20:37:00
+CF01963,57,Female,Orthopedics,Low,True,False,2026-03-03 21:13:00
+CF01964,47,Male,Orthopedics,Medium,False,False,2026-02-28 16:18:00
+CF01965,83,Male,Cardiology,Medium,True,False,2026-01-18 01:11:00
+CF01966,2,Male,Emergency,Critical,False,False,2026-02-07 04:55:00
+CF01967,53,Female,Emergency,High,True,False,2026-02-23 14:17:00
+CF01968,41,Female,Emergency,Medium,False,False,2026-01-08 10:16:00
+CF01969,49,Female,Emergency,Medium,False,False,2026-02-16 21:50:00
+CF01970,15,Female,General Medicine,Low,True,False,2026-02-26 22:42:00
+CF01971,83,Female,Cardiology,High,True,False,2026-02-25 10:42:00
+CF01972,56,Male,Cardiology,Critical,False,False,2026-03-27 06:41:00
+CF01973,56,Female,Emergency,Medium,False,False,2026-02-06 17:19:00
+CF01974,29,Male,Emergency,Medium,True,False,2026-02-01 03:52:00
+CF01975,81,Male,Emergency,Medium,False,False,2026-01-09 06:25:00
+CF01976,52,Other,Orthopedics,Critical,True,False,2026-01-14 16:48:00
+CF01977,40,Male,Trauma,Low,False,True,2026-01-02 10:15:00
+CF01978,51,Female,General Medicine,Low,True,False,2026-02-07 00:58:00
+CF01979,73,Male,Emergency,Medium,False,False,2026-03-04 21:17:00
+CF01980,19,Male,Orthopedics,Low,False,False,2026-02-17 14:35:00
+CF01981,6,Male,Orthopedics,Medium,False,False,2026-03-26 13:55:00
+CF01982,60,Female,General Medicine,Critical,False,True,2026-01-31 18:57:00
+CF01983,2,Male,Emergency,Medium,False,False,2026-02-06 06:52:00
+CF01984,86,Female,Cardiology,Medium,True,False,2026-02-16 00:04:00
+CF01985,74,Female,Emergency,Medium,True,False,2026-02-04 14:12:00
+CF01986,6,Male,Emergency,Medium,False,True,2026-02-26 14:11:00
+CF01987,58,Female,Cardiology,Low,False,False,2026-03-22 06:02:00
+CF01988,58,Male,Emergency,Medium,False,False,2026-02-18 23:47:00
+CF01989,85,Male,Emergency,Low,False,False,2026-01-28 23:36:00
+CF01990,62,Male,General Medicine,Low,True,False,2026-03-24 21:43:00
+CF01991,14,Male,Orthopedics,Critical,False,False,2026-03-11 11:55:00
+CF01992,78,Female,Emergency,Low,False,False,2026-03-01 11:46:00
+CF01993,43,Male,Emergency,High,True,False,2026-02-10 00:22:00
+CF01994,15,Male,General Medicine,High,False,False,2026-02-23 04:19:00
+CF01995,43,Male,Emergency,Low,False,False,2026-01-15 03:07:00
+CF01996,52,Male,Cardiology,Low,False,False,2026-02-01 07:14:00
+CF01997,56,Female,Emergency,Low,False,False,2026-03-24 09:02:00
+CF01998,57,Female,Emergency,Low,False,False,2026-02-12 14:51:00
+CF01999,41,Male,Emergency,High,True,False,2026-03-22 01:14:00
+CF02000,88,Male,Orthopedics,Low,True,False,2026-03-31 14:40:00

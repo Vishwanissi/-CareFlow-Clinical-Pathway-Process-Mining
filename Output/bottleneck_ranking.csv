@@ -1,0 +1,9 @@
+Activity,Next_Activity,Transition_Count,Avg_Transition_Minutes,Median_Transition_Minutes,P90_Transition_Minutes,Max_Transition_Minutes,Bottleneck_Rank
+Blood Test,X-Ray,1960,30.01326530612245,30.0,42.0,45.0,1
+Treatment,Discharge,2000,25.9795,26.0,38.0,40.0,2
+X-Ray,Triage,794,25.079345088161208,25.0,33.0,35.0,3
+X-Ray,Treatment,1206,24.84825870646766,25.0,33.0,35.0,4
+Triage,Doctor Consultation,2794,17.53543307086614,17.0,25.0,30.0,5
+Doctor Consultation,Treatment,794,15.882871536523929,16.0,22.0,24.0,6
+Doctor Consultation,X-Ray,40,12.05,13.0,16.0,17.0,7
+Doctor Consultation,Blood Test,1960,10.937244897959184,11.0,16.0,17.0,8

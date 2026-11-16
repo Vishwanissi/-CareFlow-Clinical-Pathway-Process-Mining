@@ -1,0 +1,10 @@
+KPI,Value,Unit
+Total Patients,2000.0,patients
+Total Events,13548.0,events
+Patients with Repeated Triage,794.0,patients
+Repeated Triage Rate,39.7,%
+Patients with Triage After X-Ray,794.0,patients
+Post X-Ray Triage Rate,39.7,%
+Non-Conforming Cases,834.0,patients
+Conformance Rate,58.3,%
+Average Visit Duration,122.0945,minutes
